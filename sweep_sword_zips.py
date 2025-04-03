@@ -1,6 +1,8 @@
 import os
 import easy_bible_format.converters.sword_to_ebf
 
+LOG_FILE = "sword_conversion.log"
+
 def scan_and_convert(input_dir, output_dir=None):
     """
     Scan a directory for SWORD modules and convert them to JSON format
@@ -32,7 +34,8 @@ def scan_and_convert(input_dir, output_dir=None):
                     easy_bible_format.converters.sword_to_ebf.converter(input_path, output_path)
                     processed += 1
                 except Exception as e:
-                    print(f"Error converting {input_path}: {str(e)}")
+                    with open(LOG_FILE, 'a') as log_file:
+                        log_file.write(f"Error converting {input_path}: {str(e)}\n")
                     errors += 1
     
     print(f"\nConversion complete. Processed {processed} files with {errors} errors.")
