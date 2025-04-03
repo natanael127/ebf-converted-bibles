@@ -161,7 +161,7 @@ def scan_and_convert_web(url, output_dir, skip_existing=True, delay=1):
     print(f"  - Already exists: {already_exists} files")
 
 def main():
-    scan_and_convert_web("https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/", "crosswire_ebf")
+    scan_and_convert_web("https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/", "crosswire")
 
 if __name__ == "__main__":
     main()
