@@ -94,7 +94,7 @@ def scan_and_convert_web(url, output_dir, skip_existing=True, delay=1):
             safe_filename = os.path.basename(filename)
             
             # Check if output already exists
-            output_filename = os.path.splitext(safe_filename)[0] + '.json'
+            output_filename = os.path.splitext(safe_filename)[0] + 'ebf1.json'
             output_path = os.path.join(output_dir, output_filename)
             
             if skip_existing and os.path.exists(output_path):
