@@ -45,7 +45,7 @@ def scan_and_convert(input_dir, output_dir=None):
     
     print(f"\nConversion complete. Processed {processed} files with {errors} errors.")
 
-def scan_and_convert_web(url, output_dir, skip_existing=True, delay=1):
+def scan_and_convert_web(url, output_dir, skip_existing=True):
     """
     Scan a web directory for SWORD modules and convert them to JSON format
     
@@ -116,11 +116,7 @@ def scan_and_convert_web(url, output_dir, skip_existing=True, delay=1):
             try:
                 download_path = os.path.join(temp_dir, safe_filename)
                 print(f"Downloading {file_url} to {download_path}...")
-                
-                # Add a delay to avoid overwhelming the server
-                if delay > 0 and i > 1:
-                    time.sleep(delay)
-                
+
                 download_response = requests.get(file_url, stream=True)
                 download_response.raise_for_status()
                 
