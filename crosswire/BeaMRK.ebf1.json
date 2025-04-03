@@ -1,0 +1,2114 @@
+{
+    "bible": {
+        "name": "BeaMRK",
+        "books": [
+            {
+                "names": [
+                    "Mark"
+                ],
+                "usfm_id": "Mark",
+                "abbreviation": "Mark",
+                "chapters": [
+                    {
+                        "verses": [
+                            {
+                                "text": "  Hatseto mawotich oochu Jesus Christ, Tikeaootli ma chue; "
+                            },
+                            {
+                                "text": "Takeh nichatinkles akehe koonachatya kehe, Oosooasi sakewotihche nachatyea atghuni oochu naaootle. "
+                            },
+                            {
+                                "text": "  Hligi otyesta tike kemweh toowe ooli, Atghuni oochu ahasoonesun, aghahati tsiwoeseh kwetooyakehe.  "
+                            },
+                            {
+                                "text": "John tane tukeghingklit kemweh, hatse tane tatilon tunaghakeooskliti ahtilon otlwechi keochehlalon kehe aghametseli oneochetolel asilon. "
+                            },
+                            {
+                                "text": "Kahchu yinkhadeshalon tike okehe otsi Judaea, kahchu aghatane yateh otsi Jerusalem, kuihe sahke Jordan aghanetye tukukeghinklilon, koometselihi kooatuoochatihi. "
+                            },
+                            {
+                                "text": "John ghatai manatsunne ghigheze gha eghayulon natun atyetlalon atazi syeh kahchu atazi syeh ihe nanihklulon: oohchu yaskesi yu achalinoo yu ayilai yetsetlon; "
+                            },
+                            {
+                                "text": "Oochu toowe ooli yehtilon, yetsi ootelon, Hligi sooniya sataihchi anati, nakyeklule aghoo atu enasoo machi chunoostyeli mamakeoosut. "
+                            },
+                            {
+                                "text": "Suni la tu ihe naghakyeihklit: ahwole atai tu ihe naghakyeihlili Atsinde Oochu ihe. "
+                            },
+                            {
+                                "text": "Occhu gheise wazeluh ayi dzine, Jesus otsidesha Ion Nazareth Galilee otsi, John tuyakeghinklilon Jesus Jordan otsi. "
+                            },
+                            {
+                                "text": "Kwete tu tsi tghatyeza tsiwohzon, wailon yake kwa matahatsataghiolon, yakeotine yetsi natezalon oietli etye: "
+                            },
+                            {
+                                "text": "Oochu otech yake otsi atitsuklon, toowela ooli oti ihe, Nila otaihchi nwasti Sachue. "
+                            },
+                            {
+                                "text": "Kwete atsinde achu tike tsi yatehalon kemwehchi. "
+                            },
+                            {
+                                "text": "Koochi kemwehchi atu tane nuklechi tioketi dzineke kooali, yakaotehun Metseli aghaghatai; kahchu ghatai metseli ihkyateslon; kahchu oochu woei oochu yetsinatilon. "
+                            },
+                            {
+                                "text": "Kootoo John kwechaghinhtyilon tane kwechaghinhtyinti, Jesus yuhchidesha Galilee, koohootyeh otech oochu Nagha Tgha makaoonadzutti otsi, "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli, Tyeneti Nagha Tgha kyeyi: naghametselihi kyechahli, oochu otech oochu aha kootahti. "
+                            },
+                            {
+                                "text": "Ihtyezon tu chok Galilee tghamweh klontyesha, yailon Simon yu Andrew yu mekye yu tyemil tayesklu tu chok: atai tane taesklu tane eli. "
+                            },
+                            {
+                                "text": "Oochu Jesus toowela ooli yehti, Sakyetahtyel, kooh hanahooslihi oohchu hluge kehchi enahooslihi tane niyutooleli chon otsi. "
+                            },
+                            {
+                                "text": "Kwete taghatyemile echaghanelelon kikyehtyeshalon. "
+                            },
+                            {
+                                "text": "Oohchu oontsutli tontyo tyesha, yaih James Zebedee machue, kahchu John mekye, atilon tachin ela ehkye atyi tyemil keyatinklulon. "
+                            },
+                            {
+                                "text": "Kwete tyechi yehtilon: kwa taghata echughanelilon tachin ela ehkye atyi Zebedee oochu keotihche yu, oohchu kikyetyesklit. "
+                            },
+                            {
+                                "text": "Oohchu kochi ghatyestyetl Capernaum; kahchu kwete taneghaotatyech kwa kwiya menejitti dzineneh tane chehotyeh. "
+                            },
+                            {
+                                "text": "Oneghanintyellon yaotihche: kooatinti yaotatiheh otech oochu tatihi natsuti kehchi ayihoo mawoochuli, atu adeskles tane kehchi. "
+                            },
+                            {
+                                "text": "Oohchu iehti kweh atiih hligi teze ta kwa taneghaotatyech yaghati metseli ayiih; kahchu ootyestalon, "
+                            },
+                            {
+                                "text": "Toowe ooli, Atu aghaititaniah; atu ooli nagha assitli iyo aoohti, nuni Jesus Nazareth otsi? Yuhchitiyala aghayaonila? Atanasti nelesi Nagha Tgha Maatsinde Oochu ooih. "
+                            },
+                            {
+                                "text": "Jesus toowela ooli yehti, yachioote, Atu oonatih yehti, setseghatiyah yetsun tsi. "
+                            },
+                            {
+                                "text": "Kootoo aghaghatai tsunale too yayaghinchil, oohtye ootyestalo, yetsi hadesha. "
+                            },
+                            {
+                                "text": "Aghanetye ooghatesta, aghanetye chu koohtaghoati, tiyeohtye, yetike aloontye? ye tane tsi oochatihi koonte? Aha kootesti otech oochu gha saghatai mayis atu natset. "
+                            },
+                            {
+                                "text": "Koohchu oonthe atyeh meghoyuh yito kwa Galilee. "
+                            },
+                            {
+                                "text": "Ayite otsi, ghaghatestyetlon taneghaotatyechi kwa otsi, kweghaghintyetl Simon yu Andrew yu kwa, James chu John chu. "
+                            },
+                            {
+                                "text": "Simon tsiyue ma tyelasatyi teskoone ayila, oohchu koohoohati. "
+                            },
+                            {
+                                "text": "Yechidesha yila inchut, kahchu tahyatinti; kwete ayi teskoone ayila yecheli, ayi oota yakeotihch. "
+                            },
+                            {
+                                "text": "Hatse kahkachi, naghioo, kiya nanila yatitine, yaghi chu mazichi yaghatai metselihi. "
+                            },
+                            {
+                                "text": "Kahchu atghe ehlaititi tane natihti tyechiklaghatati tusklahti. "
+                            },
+                            {
+                                "text": "Kahchu atghazi tatihi akooyilalon ayeeah natlone yehtanintyelon, kooyaghatai metselihi natlon oonteslalon; kahchu atu ketselihoo wahti iyao-ohti, achi atayatilon ayiwooh ayehti. "
+                            },
+                            {
+                                "text": "Kahchu hatlindo, setsehto tsitike satalon, hadesha, kahchu koondeshalon aghasuchalechi, kahchu iehti yachutatyeheh. "
+                            },
+                            {
+                                "text": "Kahchu Simon yehkyatehchi kikyehtestyetllon. "
+                            },
+                            {
+                                "text": "Kikihtitsi, toowela ooli kiyehtilon, Atghe tane ninkhaghanatgha. "
+                            },
+                            {
+                                "text": "Towehchu yehti, Tane natehtsi otsidooshai kooche oohoostihi oochu, kootatooshigha lasasta aoontye. "
+                            },
+                            {
+                                "text": "Kahchu tane tsiwoghintalon taneghaotatyech kwa kwe Galilee, kahchu atsinde metseli ghayatehalon. "
+                            },
+                            {
+                                "text": "Kahchu machitatestyel tane tsusachi yaghoone yatsi nioonunisit, kahchu machi nachustachaklih, kahchu toowela ooli yehtilon Kooh koodinti ate oochu asaghoonlehassi. "
+                            },
+                            {
+                                "text": "Kahchu Jesus, atyetastihtoo madzye tatilon nati gha tiesunni ihe, yetsi tahtatitichlon, kahchu yakatehtich lon, kahchu toowela ooli yehtilon, Kooh koosti; kwakoola oochu anatyeh. "
+                            },
+                            {
+                                "text": "Tsiwohzon otatyech otye, susuchi yetselilon, kahchu oochu oohtyelon. "
+                            },
+                            {
+                                "text": "Kahchu yatatilon tsiwohzon itintiah, kahchu oochu tyehalon; "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehtilon, Atu kahchu ooli ataoonti niwotine: kahchu achutiya, nazi yueh taneghaotatyech metihi, kahchu khaniah naoochu oohtyi ihe yaghi Moses za kyehchi, ata kiyutihi. "
+                            },
+                            {
+                                "text": "Kahchu hadesha, oohtye awonetye khootawootyelon, kahchu tike okehe khootawotyelon, kwa hlilon Jesus atu tanetghakweya tyetachatlihi kwa iyu meheaoontye, ahwole kemwehchi tike alilon, kahchu kiyinkhatestyetllon ewonetyetsi otsi.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "Kahchu kwiyalon Capernaum tahke dzine oolitatatich wazilate; kahchu kooachatilon ayiti nito kwa oota ko-ochati ihe mewoyu. "
+                            },
+                            {
+                                "text": "Kwete natlone tyechi ghlaghatilon, kwa hlilon taghadesmanlon atulitah ookuzze ooli ghintlon kye, kwa hlilon tusla aghoo ooghata taghadesman ghintlon kye; kahchu sa yatatilon. "
+                            },
+                            {
+                                "text": "Kahchu kiyinkhatestyetl yatilonooh yatitihi ihe, tyentane kooyahtyel. "
+                            },
+                            {
+                                "text": "Kahchu atu ugha otsighatatyel iyua aoontye ootaneghutl kye, nighatilalon anetiyi ootaneghutl kye alinti; kootoo ghaghatagheoo yatilone, kitaghintsut takeustyi tyela satyechti. "
+                            },
+                            {
+                                "text": "Kootoo Jesus wai aha oochati, toowela ooli yehtilon ayi yatilone, Sechue, nametselihi naoonchatuleli. "
+                            },
+                            {
+                                "text": "Ahwole tahkine ayiti tyechii adesklesne, kahchu koodzye otsi indighateshalon, "
+                            },
+                            {
+                                "text": "Yeoogha ti teze atu oochu ateotye? mea metsehhi ka oontoolelassi kootahtye Nagha Tgha zon? "
+                            },
+                            {
+                                "text": "Kwete Jesus ataotio yaghatei intidesakehe, toowela ooli yehtilon, Yehoo oohtye naghadzye ihe intidaa aoontye? "
+                            },
+                            {
+                                "text": "Tyeyi meotena achatooti kehe yatilone, Nametselihi naoonchatoolel; koolehe, Tsitike sinta, nustyi neodiah? "
+                            },
+                            {
+                                "text": "Atawahtihi iyu aoontye hligi teze Machue natsutti ayehi chode tike kakametselihi naghaoontooleli, (toowela ooli yehtilon yatilone,) "
+                            },
+                            {
+                                "text": "Toowela nesiih, Niiya, nustye nioodiah, nakwa otsidiya. "
+                            },
+                            {
+                                "text": "Kwa kwete niiya, ustyi nioodioo, kahchu hadesha aitye yai; kwa hlilon atghe yaooli, kiyaooli Nagha Tgha, toowela ghatyeh, Atu haoontyedi oohwetyi tahooli. "
+                            },
+                            {
+                                "text": "Kahchu tu chok meootyesha; atghe aghanetye machichatyesha, kwa yaotatich. "
+                            },
+                            {
+                                "text": "Intyizon ghayalu, yailon Levi Alphaeus ma chue sata sooniya mechetilichti, toowela ooli yehtilon, Sakyetiya. Kahchu niiya yekehtesha. "
+                            },
+                            {
+                                "text": "Hesai wazeluh Jesus yakwa kwesata atsitsoo, natlone tanechowhoine chu metseline chu Jesus yakahtehtsi yaotatichne chu: oohchu ghintlone, kooketestyetl chu. "
+                            },
+                            {
+                                "text": "Kootoo hatseto adesklesne chu Phariseene chu kiyaichi inka aghatsitsoo tanechowhoine chu metseline chu, toowela ooli yehtilon yaotatichne, Yehoo yakaatsits aoontye yakah chu tuaton tane chowhoine chu metseline chu? "
+                            },
+                            {
+                                "text": "Kootoo Jesus ootitsahoo, toowela ooli yehti, Yaghine oochu oontyene atu kiyinkhasootati yutane, yatitihizon: atu yuhchideya tyechi kooyusine tyeswe yaghitane, ahwole ayi atu tyeswe yaghitane chodeh kyetsahanohoolehe koometselihi ooghatihuali. "
+                            },
+                            {
+                                "text": "Kahchu yaotatichne John chu Phariseene chu ooneaghatatihya toonkye: kahchu yuhchihatestyetl toowela ooli, yehoogha yaotatichne John chu Phariseene chu ooneatatehya aoontye, ahwole nuni maghotintichne atu ooneatatehya? "
+                            },
+                            {
+                                "text": "Kahchu Jesus toowela ooli yehti, Maskyege la kwa nichiyehi kooyehkyatechi ooneatatulela la? kooyehkyatechton atu ooneatatehya iyu aoontye. "
+                            },
+                            {
+                                "text": "Ahwole kwa kwete khoonahwozetasi, kootoo mka tuchainklitne kwiya kwa oochayihate, kahchu ayi dzine ooneatatuyelassi. "
+                            },
+                            {
+                                "text": "Atu chu ooli koonde ale ooli tsatse ihe kyechatoohkatassi, yaikoole koonde ihe kechaghinghati kwa hlilon hleooyu awotiassi. "
+                            },
+                            {
+                                "text": "Kahchu atuline tata ahklitassi chiche tu koonde satsoone tontyeto otsi: atu chu chiche tu ooli tsatse tataoohklit ootookyezasi, kahchu natesklitchiche tu, kahchu mataootsayih oontookyezasi: ahwole chiche tu koonde ooli ta koonde chuhklitassi. "
+                            },
+                            {
+                                "text": "Kahchu otles tghah niya achuniyehti Menejitti Dzine; kahchu yaotichne makye ghatehlu atghe inchaghakinesla otles. "
+                            },
+                            {
+                                "text": "Kahchu Phariseene toowehchu vehti, Nye, yehoo koohghaghati aoontye Menejitti Dzine atu tu dzine kooh ghatsati iyu aoontye? "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehti, Atu makyeh ootahtyech tah oolila David aoontli kootoo intaklinto kahchu tapatoo, atane chu ayi vehkyatiche chu? "
+                            },
+                            {
+                                "text": "Kwiye sikooh Nagha Tgha kwa, intyizon Abiathar taneghaotatyechi metihi chok acha, kahchu kiyatsetslon otles oochu atuline yetsitslon gha yai zon taneghaotatyech, kahchu yayigholon ayi yehkyatiche. "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehti, Menejitti Dzine achilalon tane gha, kahchu atu chu tane Menejitti Dzine gha: "
+                            },
+                            {
+                                "text": "Ayigho teze Chue ghakaoodzut Menejitti Dzine.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "Kahchu tyetachatlihi kwa kwiya: ayiti teze natyelon mila taneskyelon. "
+                            },
+                            {
+                                "text": "Kahchu kiyunailon, ooka ooli asityeh kha Menejitti Dzine nai; kitalih iyu aoontye. "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehti ayi teze mila taneskye, Hatelon atichi nazutooh. "
+                            },
+                            {
+                                "text": "Tooweh chu yehti, Oochu la oochu keoochuahch Menejitti Dzine, ketseliooh keoochuahch? tane ghaghatai gha kasoochatooti gha koole? Ahwole atu ooghati. "
+                            },
+                            {
+                                "text": "Kahchu anetye klokanatghalon madzyehatsutooh, kyeoocheklah ihe tane dzye natsutti, tooweh chu yehti teze, Tahtatinti. Ooh kahchu tahtatintieh: oohchu mila natsaghinhtalon achune kehchi. "
+                            },
+                            {
+                                "text": "Kahchu Phariseene achughatestyelon, kwete hla nighohanintalon yai chu Herodianuk, tihakehe soo ookitoohtelu. "
+                            },
+                            {
+                                "text": "Ahwole Jesus achutyezha yaghotine chu tu chok tsi: Kahchu tane natlone Galilee otsi yu Judaea otsi yu yekehtestyetl. "
+                            },
+                            {
+                                "text": "Kahchu Jerusalem otsi, kahchu Idumaea otsi, kahchu o-one otehchi otsi Jordan, kahchu aghatane ahthaze Tyre yu Sidon yu, ghintlon ke, ooghatitsuk chi ayi oochu keoahchi, kiyinkhadesha. "
+                            },
+                            {
+                                "text": "Kahchu yaotatichne tatilon, ela ckok natsutli ootagha iiti wothoogha kooghohtyi tane natlon ke kha ati makechichiticha. "
+                            },
+                            {
+                                "text": "Atane natlone yaghihti ihe; kwa hlilon yinkghanotyesuts yakatutihikha, anetye ayi tatihi akooyahine. "
+                            },
+                            {
+                                "text": "Tane yaghatai mindicheli kahchu kiyainchi ate, kyechinachustaklih, kahchu ghatyezul toowe la ooli kiyehti ihe. Nuni Nagha Tgha Chue nelaoontye. "
+                            },
+                            {
+                                "text": "Kooh oochu atu soohchiwoti atu atachutihikha. "
+                            },
+                            {
+                                "text": "Kahchu khis ehkyeghiyalon, kahchu ayizon ayuti tyechi yehti: yachidesha. "
+                            },
+                            {
+                                "text": "Kahchu keneti onketi matgha kliniyanila, yekyeootichigha, kahchu achutehalon udzih oohootigha. "
+                            },
+                            {
+                                "text": "Kahchu ayulhi gha natsutti, kahchu atsinde metselihi hayatuhi gha: "
+                            },
+                            {
+                                "text": "Kahchu Simon yindizi yakechioosun Peterlon; "
+                            },
+                            {
+                                "text": "Kahchu James Zebedee machue, kahchu John, James mekye; kahchu nindizi yakechioosun Boanerges, ayi nahthunni uskyege chatyeh: "
+                            },
+                            {
+                                "text": "Kahchu Andrew, kahchu Philip, kahchu Bartholomew, kahchu Matthew, kahchu Thomas, kahchu James Alphaeus machue, kahchu Thaddaeus, kahchu Simon ayi Canaanite, "
+                            },
+                            {
+                                "text": "Kahchu Judas Iscariot, mazi atahootalon: kahchu nito kwa kwighaghintyetl. "
+                            },
+                            {
+                                "text": "Kahchu natlone natsughanestlalon, ehtye kwa hlilon atu otles atsitslon natlonke. "
+                            },
+                            {
+                                "text": "Kootoo meootinoo ootitsukoo, achughatestyetl kiyuhchutigha: aghatune kooghatyeh, Tinditaodesooissi. "
+                            },
+                            {
+                                "text": "Kahchu adesklesne yuhchighatestyetl Jerusalem otsi ghati, Ayehi Beelzebub, kahchu yaghatai metselihi iiti otsi hayateha. "
+                            },
+                            {
+                                "text": "Kahchu koohchu yinkhawoti, kahchu too we yehti, tyecha otsi aghaghatai metselihi hatsatoohtyel oontye ayi aghaghatai metselihi? "
+                            },
+                            {
+                                "text": "Kahchu hlahti tane natehti intsake yawoinklit ate, ayiti tike ii oowotoehassi. "
+                            },
+                            {
+                                "text": "Kahchu ayi nito kwa yaooghinkliti ate, ayi nito kwa oowotoehassi. "
+                            },
+                            {
+                                "text": "Kahchu aghaghatai metselihi ataniiya ate, kahchu tezi yanile ate, atu oowotoehassi. "
+                            },
+                            {
+                                "text": "Atuline kweyali iyua aoontye teze natsutti kwa, yenatunne yatatulelu, hatse tahyaghesklu teze natsutti; atezon ya kwa yaghonile iyu aoontye. "
+                            },
+                            {
+                                "text": "Kwa hli anaghaisilon, Atghe metselihi kooya oochatoolelassi tane uskyege, kahchu soocha oochatihi: "
+                            },
+                            {
+                                "text": "Ahwole ayi ketselioo atii Menejitti Oochu atu ihlaotateoo ayehi kha, ahwole seghaai ayehi nioonizutti oonchatalihi: "
+                            },
+                            {
+                                "text": "Ayighoo ayehti, Ayehi aghaghatai metselihi. "
+                            },
+                            {
+                                "text": "Kahchu mekye chu ma chu iiti otsighatestyetl, kahchu tsehtsi nazutooh, kilati, kiyinkhaooti. "
+                            },
+                            {
+                                "text": "Kahchu tane natlone yaka tghanatihtsi, tooweh chu kiyehti, Nea, noo chu nehtghizinne chu tsehtsi naghatehya ninkhaghanata. "
+                            },
+                            {
+                                "text": "Kahchu ateyatetla, toowehchu yehti, Mea anne eli, setghezinne koole? "
+                            },
+                            {
+                                "text": "Kahchu khlonkanatgha ayi yaka khlontyetsi, kahchu toowela yehti, Ahi anne chu sehtghezoon chu! "
+                            },
+                            {
+                                "text": "Atunne zon kooh ghawoteassi ayi Nagha Tgha indi, ayi akye chu, ustye chu, unne chu.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "Kahchu tyigha tane ootatech tu chok tghamweh: kahchu natlone yinkhadesha, kahchu tachin ela ehkyiya, kahchu tu chok tih ali; kahchu atghe tane natlone tike wohzon. "
+                            },
+                            {
+                                "text": "Kahchu yachioteh ooli natlon yughotyeh, kahchu toowe ehti otsiootihi, "
+                            },
+                            {
+                                "text": "Oochu atahtsuk; Oochu hadesha otles alihi tane anihyihi niyilihi gha: "
+                            },
+                            {
+                                "text": "Kahchu intyizon achunihyehti, tahkine yainkhyi tinkuzze, kahchu chua etye yaghatehtyetllon. "
+                            },
+                            {
+                                "text": "Kahchu tahke nooghinklit tsyetgha, atu oonchadi tike ooliite; kahchu kwete ghanaghiyu, atu tike tatghoe: "
+                            },
+                            {
+                                "text": "Ahwole chelon sa niniya, maziche ninihklitlon; aha oona maghaye toontooeyi, ayi ihe taihtsutii. "
+                            },
+                            {
+                                "text": "Kahchu tahke nooghinklit ghoos chine chok tgha, kahchu ghoos chine chok ghanaghiyu, kahchu klighatanityetUon, kahchu atuli machiche oolilon. "
+                            },
+                            {
+                                "text": "Kahchu achu nooghinklitlon tike oochu ti, kahchu machiche ooghilyelon ghanaghiyu yu kahchu tainyezho; kahchu yahlonihyu tahke taoketyi tahke chu edzetaiti ketyi, tahke chu keoneti ketyi. "
+                            },
+                            {
+                                "text": "Koohchu yehti, Yaghi matsaghe ooli, inkai ootootsuke yehti. "
+                            },
+                            {
+                                "text": "Kootoo chlatyo ayi yehkatyelichi yaghi chu keneti onketi matgha tawotya yehti kawotzutne gha. "
+                            },
+                            {
+                                "text": "Kalichu toewela ooli yehti, Naghunni aghaoochuneoh aoontye atawohtihiglia tyewotye hai koosti Nagha Tgha kyeyi: ahwole ayine tsehtsi natihne, atghe ooli keowaahch yehe achatih: "
+                            },
+                            {
+                                "text": "Wai oochui, kahchu atu hlyenahotihi gha; kahchu ooghatitsukooh ooghatootsukassi lon, kahchu atu klaghatootsukassilon; koohchu oolita ghooghanetyela, koometselihi kooya oone oochatulel akhe. "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehti, Tiyeghakehe atawahtiha ooli kehe yaghaghahtai kehe? koohchu yeghateh atawahtiha atghe otech? "
+                            },
+                            {
+                                "text": "Oonehyene oonehyoh sa. "
+                            },
+                            {
+                                "text": "Kahchu aghatane tinkuzze tatihne sa chunihyehti; ahwole kootoo ooghatitsukassi kooh ghaghatai metseli kwoto otsidesha, kahchu yazake yuhniyatiooh yadzye ta otsi. "
+                            },
+                            {
+                                "text": "Kahchu aghatane chunihye ine tsye tgha; kootoo sa ooghatitsuk, kwete neooatiooh soochanetye; "
+                            },
+                            {
+                                "text": "Kahchu atu ghai ighutaklilon aghatane hahte, kwa tiootsi zon ghaghatalon, ootlwe kootoo sookhaootaya kootoo hlachatatane niwoya sa tachi kwete chahte intighatesah. "
+                            },
+                            {
+                                "text": "Kahchu aghatane ayi yachunihyene ghoos chok chine tgha; ayi sa ooghatitsuh, "
+                            },
+                            {
+                                "text": "Kooh tidi tike indi, kahchu mihe atsunnetahe yu mihe tatintlon yu, kahchu machachintye achu ooli kwenachaghila otcho ooli sa, kahchu atu machiche ooli. "
+                            },
+                            {
+                                "text": "Kahchu ayi mehoochunihyehe tike oochute; ayi ootitsukne sa, kahchu niooatioone, kahchu machiche ooli, tahke taoketyi enetyi, tahke chu edzetaitiketyi, tahke chu keonetiketyi. "
+                            },
+                            {
+                                "text": "Kahchu toowela yehti, Nachila takooche nichualli ghotwetghulle yue take ustyi koole? koohchu atu nichiooite takoochechine? "
+                            },
+                            {
+                                "text": "Agha atuli nachunehi atu mewotuti; kahchu atuli tanetcha maghuchata iyu aoontye, ahwole atachuteassi. "
+                            },
+                            {
+                                "text": "Koole matsaghe oolyetane inkai ootootsukassi. "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehti, Tyeke ayi ootahtsukki: ayi ihe tikeghaklyeli, ayieh nagha tsi tiketsalelassi: kahchu naghai ootaghahtsukki, ootehchi nahachuallassi. "
+                            },
+                            {
+                                "text": "Yaghi ayehi, machuallassi: kahchu yaghi atu ayehi, mehwayachutallassi koole ayi ayehi. "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehti, Koohia ootye oontye Nagha Tgha kyeyi, hletye teze oochunehyehti oodihyitl keoontye; "
+                            },
+                            {
+                                "text": "Kahchu satyi, kahchu niiya hatleke chu dzine chu, kahchu achunehyehti ghanaghihu, atu ataoti noontye sikooh. "
+                            },
+                            {
+                                "text": "Ghoo yaghi tike atai hahte otsi ghanaghihu; hatse kloke eli, kahchu hachaghinaghiyu, kahchu otlweh ootles. "
+                            },
+                            {
+                                "text": "Kahchu yaghi chiche ghanaghihuta, kwete atataz, khoo chotazze dzine eli. "
+                            },
+                            {
+                                "text": "Towehchu yehtilon, Tyechi otsi gha Nagha Tgha kehchi niwowotal aoontye manatake? koole hletyi indi nighaootal aoontye? "
+                            },
+                            {
+                                "text": "Hleoontye oochuniliyehti ehlatye yutanikluchi machiche, kwa nichalesta oonahyehe tike, eyi zon natsutli anetye oochu ihyehe tike tih: "
+                            },
+                            {
+                                "text": "Kwa aochelesta, oochu nichulesta ayi zon otehchi yaincha anetye nichulihchassi, kahchu matatse natlon; kahchu ayiti chua yayue sacha iyue tehtsi. "
+                            },
+                            {
+                                "text": "Kahchu ayi etye akyehchi oochatihi ihe ehyatatilon, ghanawesittih oohasoohtsoo gha. "
+                            },
+                            {
+                                "text": "Ahwole atu ya-i-ti-tyes ate atu yachiwotyehlon: kahchu sahta aghatinta, yaotatichne atghe yatatilon. "
+                            },
+                            {
+                                "text": "Kahchu ayi dzinee, kahkachi aocha, toowehchu yehti, Onka nataghokye taityechi. "
+                            },
+                            {
+                                "text": "Kahchu yite kitehalon tane natlone, nighatila aoontye sikooh. Kahchu kooyeh testyetlon tachin ela ihe. "
+                            },
+                            {
+                                "text": "Kahchu intsi chok niya, kahchu tuyune nachalon tachin ela kooyeghe tiketlalon, kwa hlilon tadesmanooh. "
+                            },
+                            {
+                                "text": "Ahwole atai haiseuhi, satyi tsiatakyeh: kahchu tsikiyaniha, toowehchu kiyehti Metihi, atu aghaititawoala tghataozitassi? "
+                            },
+                            {
+                                "text": "Kahchu niiya, kahchu intsi tsiwoti, toowehchu yehti tu chok, Tyeke tahtsi. Kahchu intsi atyehzut, kahchu ohtye tyesghutl. "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehti, Yehoogha onenatyetl aoontye? yehoogha atu a kootahti aoontye? "
+                            },
+                            {
+                                "text": "Kahchu ohtye onighanintyetl, kahchu toowela klaghatati, Ye teze alontye koole intsi ateate chu tu chok yuzehtso?  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "KAHCHU nighatiooh taityechi chisinchi tu chok, kootike tsi Gadarene matike. "
+                            },
+                            {
+                                "text": "Kwa kootoo tasaya ela ehkye otsi, kwete yatitityesha ehlatye teze natine kwa otsi ayehi yaghatai atu mayis natsutooh, "
+                            },
+                            {
+                                "text": "Makwa ooli natine tgha; kahchu atuline yatahnatsut iyu aoontye ihe ayii ihe atu tah taghatsakluh iyu aoontye, atu satsoone klule aghoo ihe taghachakluhassi: "
+                            },
+                            {
+                                "text": "Tewotye oontlon tahtsughesklu mihe klule ihe kahchu satsoone klule ihe, kahchu satsoone klule yatayaghechil, kahchu makye chine klule oochu yatayaghechil: kahchu atuline oochu ayilih iyuntyeh. "
+                            },
+                            {
+                                "text": "Kahchu inkaa hatleketahwoyu dzinetahwoyu, ali khis tah, natine tgha woyu, otyesta, kahchu atakhai tatazo tsye ihe. "
+                            },
+                            {
+                                "text": "Ahwole tontye tsi ghotsi Jesus ya-i, otsitehtla yatsi nachustaklyeh, "
+                            },
+                            {
+                                "text": "Kahchu ohtye otyesta, kahchu toowela ooli yehti, Tyeka kehe na-kye-o-os-tyi-cha, Jesus, nuni otehchi ooli yatehchi Nagha Tgha chue neli? Natsinioonunisit Nagha Tgha tsi, atu nidisawositi. "
+                            },
+                            {
+                                "text": "Atai toowela yehtie, Sachighatiya teze zi tsi, nuni atu neyis natsutti aghaghintai. "
+                            },
+                            {
+                                "text": "Kahchu tawotya yehti nindizi tyeoolya yehtilon? Kahchu toowela yehti, Legion, oohzi: nitlon ihe. "
+                            },
+                            {
+                                "text": "Kahchu yatsinioonunisit atu achu tsutoohigha ayiti tike otsi. "
+                            },
+                            {
+                                "text": "Kahchu ieti alii hwaza khis tah koohkoos natlon eghihta. "
+                            },
+                            {
+                                "text": "Kahchu atghe aghaghatai metselihi yatsinioonunisit, toowehchu yehti, ghotsiaghatiha koohkoos natyehti, koohkoos zi toontyelikha. "
+                            },
+                            {
+                                "text": "Kahchu kwete Jesus ghatyeh yasehla. Kahchu naghaghatai atu mayis natsutti ghaghatestyetl, kahchu koohkoos zi tintyetl: kahchu koohkoos ohtye kyehodihsut ichulti tu chok tghamweh, (oolitah onkye keoneti keoneti;) kootoo chu etye tukooghiwolon. "
+                            },
+                            {
+                                "text": "Yaghaine koohkoos zaaliine taghatestyetl kooghohwati nito kwa atyih kahchu ayiti tike. Kahchu otsighatestyetl ayi ye keochaahch aoontye. "
+                            },
+                            {
+                                "text": "Kahchu Jesus kiyunintyetl, kahchu kiya-i ayi tane atsinde metselihi ayehi, kahchu kootoo ayehii ligiona, sata, kahchu natunne tasata, kahchu tyeswe indi ahi: kooh onighanityetl. "
+                            },
+                            {
+                                "text": "Kahchu yaghine oohwa-i ine kitati oontye sikooh ayi tane atsinde metselihi ayehi, kahchu koohkoos ihe. "
+                            },
+                            {
+                                "text": "Kahchu tyikichi niooghaghananintyetl achutooyigha kootike otsi. "
+                            },
+                            {
+                                "text": "Kootoo tachin ela ehkyiya, yaghi ayehii tane atsinde metselihi yachinioonunisit yehtootyeli gha. "
+                            },
+                            {
+                                "text": "Atu ghate yasehla Jesus, ahwole toowela ooli yehti, Ootinta niootinoo khadiya, oochu kootinti ooli Ghakaoozutti nakeoahchi, kahchu noohchuya. "
+                            },
+                            {
+                                "text": "Kahchu achutyesha, kahchu khootaootyeh Decapolis yechatgheze Jesus oochu nanakeochaahch: koohchu aitye tane khaooghali. "
+                            },
+                            {
+                                "text": "Kootoo Jesus natyeski tachin ela ihe taityechi, natlone tane yachitestyetl: kahchu hwa tuchok alii. "
+                            },
+                            {
+                                "text": "Nea koohzon ehlaiti yinkhatyesha kakaoozutti tyetachatlihi kwa, Jairus ooyi; kootoo ya-ichi, nakye kuchi naitsut, "
+                            },
+                            {
+                                "text": "Kahchu ohtye koonoo yachinioonunisit, toowehchu yehti, Setue tyele satyi koola tehtsutooh: nachinoonunisit, samakataootihi, naghaootai gha; koohzon hanalaite ootesi. "
+                            },
+                            {
+                                "text": "Kahchu Jesus yehkatich, kahchu natlone tane yakehtestyetl, kahchu kikyeoohsut. "
+                            },
+                            {
+                                "text": "Kahchu ehlaiti tsege, yaghi keneti onketi matgha yaskehe matulle natatyehizon, "
+                            },
+                            {
+                                "text": "Kahchu natlone ooli yakeoohchi natlon yutane, kahchu yaghatestla ayi oontyei, atuli akehe naghiteyo oontye, atatihe tati, "
+                            },
+                            {
+                                "text": "Kootoo Jesus otsi ootitsukoo nooja otsi keistla otsi yatsityesha ootaneghutl ihe, kahchu yakestue katehtich. "
+                            },
+                            {
+                                "text": "Atune toowela ehtie, Manatunne zon aghoo katyestich ate, oochu awostyeassi. "
+                            },
+                            {
+                                "text": "Kahchu kwete otsi tul natatyehti sakoon; kahchu atyetastyiht mazi tsi nachagihta avi tatihi tsi. "
+                            },
+                            {
+                                "text": "Kahchu Jesus kwete ataotihoo mehnatsutsutti mazi tsi hatsatooh, natunesha tanetiche, kahchu ehti, Mea ali senatunne katehtichlon? "
+                            },
+                            {
+                                "text": "Kahchu yaotatichne toowela yehti, Natlone tane ghii tanighatlu, kooh tinti, Mea sekahtihtich? "
+                            },
+                            {
+                                "text": "Kahchu klokanatgha yui gha ayi ooli keoachine. "
+                            },
+                            {
+                                "text": "Kahchu tsege ooniya kahchu ghati ihe, ataootioo ooli maachahi matsun tsihi, yuhchi yachi yuenenitooh, kahchu yatati aitye hlonchati. "
+                            },
+                            {
+                                "text": "Kahchu toowela ooli yehti, Ghutue aha koodinti nanaghinta-iih; taichi tyege inditiah, kechutintih natatihe ihe. "
+                            },
+                            {
+                                "text": "Intyizon kwaka ootatyichoo, yachidesha ma kwa otsi yaghi yakaoozutti tyetachatlihi kwa tahkine atine, Netue tehtsut: Yehoo gha mehchintahcha otehchi Metihi? "
+                            },
+                            {
+                                "text": "Kwete Jesus sa ootitsukoo, toowela yehti ayi kakaoozutti tane tyetachatlihi kwa, Atu ooniooya, aha koodinti zon. "
+                            },
+                            {
+                                "text": "Kahchu atuline hateh gha sehla oolino yekehtooyi, Peter zon, kahchu James, John chu mekye James. "
+                            },
+                            {
+                                "text": "Kahchu khooniyalon kakaoozutti kwa, kahchu wa-i oontlon tsi oochataahoo, yaghi chu atsukki kahchu ohtye atsukki. "
+                            },
+                            {
+                                "text": "Kootoo kwiya toowela ooli yehti, Yehoo gha oontlonchi ootahah aoontye, kahchu ahtsu-ko-oyu? ataze atu tehtsut, ahwole satyih. "
+                            },
+                            {
+                                "text": "Hatyeh oontlonchi kiyuhaghatakluch. Ahwole ehtyezon aitye hayateha, otsighadesha yatgha chu you chu ata, kahchu ayi yehkyatechii, koohchu kwinaghacha ata tyelasatyinti. "
+                            },
+                            {
+                                "text": "Yila inchutlon ata, kahchu toowela yehtilon, Talitha cumi; ayi chati, Ata, niiya, nesii. "
+                            },
+                            {
+                                "text": "Kahchu kwete ata niiya, kahchu ghayahl; atai keneti onketi matgha mayaskehe. Ohtye o-ochi khaooghalilon aghawochule kehe. "
+                            },
+                            {
+                                "text": "Ohtye atuline tataoonti; kahchu atya kehe oolita ooli machuhchut.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "KAHCHU ieti otsi achudesha, kahchu yuhchidesha ghochati matike; yaotatichine chu yekehdesha. "
+                            },
+                            {
+                                "text": "Kahchu Menejitti Dzine khoonioonizutooh tye tyetachatlihi kwa taneghaotatyech natlone kootitsakooh khawoalli, ghatih Tyecha otsi niyatilontye? Kahchu ye o-ochi mehoochayu tidi machioo, koole yaghi oochu ekyeotatichi ayilai tila ihe? "
+                            },
+                            {
+                                "text": "Atu ayila tachin atali, Mary chue mekye James, Joses chu, Juda dm, Simon chu? kahchu mehtghezze chode mekyechatich? Kalichu atu oochu yatsiintighadesa. "
+                            },
+                            {
+                                "text": "Kahchu Jesus toowela yehti, Tane chi otine tune atu mooh oontue iyu aoontye mehe meachatachai, atunezon tatike hwa yule iyu aoontye, kahchu atai hahte menachine, kahchu atai hahte ghochatih makwa. "
+                            },
+                            {
+                                "text": "Kahchu ayiti atu kooye keoahchlon mehmawochuli kewotiche, tahkine ghatyeh katehtichlon yatitine, kahchu nayaghihtalon. "
+                            },
+                            {
+                                "text": "Kahchu kawolilon atu aha yutieh. Ahwole atghe tane tanenatih akehe klodeshalon, taneghaotatyech. "
+                            },
+                            {
+                                "text": "Kahchu keneti onketi matgha tyechi yehti, eonetye tsi yeteha onkyetatatye; kahchu yehnatsutti yayila yatanatsutti naghaghatai metselihi; "
+                            },
+                            {
+                                "text": "Kahchu aychti atuli yatoolai kyatehchu, tghes zon; atu etsunzis, atu chu otles tyes ali, atu chu sooniya kooghele tasulla: "
+                            },
+                            {
+                                "text": "Hoontyegho kyetlhi ahoo zon tatyez; kahchu atu onketi kestue taooya. "
+                            },
+                            {
+                                "text": "Kahchu toowela yehti, oolitah nito kwa kwighaachatetah, ayiti ahli achutahaz ti otsi. "
+                            },
+                            {
+                                "text": "Kahchu atu ninaghatile ati, naghatitsukki ata chu, aisai iiti otsi achutaach ate, naghakye waghat otles ihe kooyeh ooghahtichi. Kwa hli anaghaisii, Otehchi aghatane Sodom yu Gomorrha yu oochu awohtyesi ohtye tane tsiochatihi dzine intyizon ayi tike. "
+                            },
+                            {
+                                "text": "Kahchu achughatestyetl, kahchu tane taghatih ketselihi ooghachatutii gha, "
+                            },
+                            {
+                                "text": "Kahchu natlon metselihi ghaghateha, kahchu kles ihe yakiyehkluk yatitiine, kahchu nayaghinta; "
+                            },
+                            {
+                                "text": "Kahchu metihi tyiyi Herod otitsuk mewoyu; (atgheze tike okehe midizi khoochatiihe;) kahchu toowe ehti, John matukeghinkliti atai tustye otsi niiya, kahchu ayiwo mehe ohtye keochatichi eotatya aoontye. "
+                            },
+                            {
+                                "text": "Achune ghati, Elias atai, kahchu achune ghati atane tai atahwotine, ehlatine eontye atane tai atahwotine. "
+                            },
+                            {
+                                "text": "Ootitsukchi Herod, toowe ehti, John ayi matsi hlihyitl ii: tsitike nesta tustyi otsi. "
+                            },
+                            {
+                                "text": "Atai Herod ghochati ochiyateha, John chu niyatinti, kahchu tane kwechayihti tayaghesklu Herodias ihe, mekye Philip tsiyue ihe: atai inkah hlakootsila. "
+                            },
+                            {
+                                "text": "Atai John ayehtii Herod, Atu wotezi nai awohi nekye tsiyue. "
+                            },
+                            {
+                                "text": "Ayeoo Herodias tike ochehtune yesoohail akhai; ahwole atu hawootli iyu maaoontye: "
+                            },
+                            {
+                                "text": "Atai Herod John enejitieh, atayetioo tyeswe ghata, kahchu maghata oochu tane elieh teze, kahchu yama intityesha; kahchu yatitsukchi oontlon kehe keoachlon, kahchu kyenawolesilon ayiteh otitsuk ate. "
+                            },
+                            {
+                                "text": "Kootoo sookah nitsutooh dzinee khonioonizutooh Herod niyi dzinee khonioonizutooh hatleke eghohtai gha oola tametihi gha, simakunnis metihi tyiyi chu, kahchu haladi kha kakaoozuni Galilee; "
+                            },
+                            {
+                                "text": "Kooh kootoo Herodias matue kwiya tahtitla, kahchu yakeneli Herod chu, ayi yakasatai chu, metihi tyiyi toowe ehti ayi atyedi, Soodinkyet ooli sachinioonunisitassi, atuli necho matuhsesi. "
+                            },
+                            {
+                                "text": "Kwete oochu ayehti, Atghaze ooli assyesi oochu gho soodinkyet ate, tghatichi ooli assi naslelasi. "
+                            },
+                            {
+                                "text": "Kahchu hadesha totsi anna. Ye ooduskyet aoontye totsi ehtilon? Tsiyua so toowe ehti, John matukeghinkliti tsi. "
+                            },
+                            {
+                                "text": "Iteteh kwete metihi tyiyi tsidesha, kahchu atakyet, kooh koosti atezon sahoalli tsa ihkye John matukeghinkliti tsi. "
+                            },
+                            {
+                                "text": "Kahchu ohtye metihi tyiyi atu kenelilon; hoontye ooli oochu ati ihe, kahchu aghatane ihe kookasata, atu yaza ootihyul. "
+                            },
+                            {
+                                "text": "Kwete chu metihi tyiyi otsideha teze, kahchu matsi naghahal yehtilon: kahchu otsidesha tane kwechayehti yetsi hlihyitl. "
+                            },
+                            {
+                                "text": "Kahchu yetsi nanioo tsakyeh, kahchu atyedi ghioo: ooh ayi atyedi to ghioo. "
+                            },
+                            {
+                                "text": "Kootoo yaotatichne oghatitsuk chi, yachihatestyetl kahchu yazeche nighatihtyi, kahchu natine kwati naghanihtyi. "
+                            },
+                            {
+                                "text": "Kahchu wochichatehane aghanetye intataghati Jesus aliiti otsihatestyetl, atghazi kitatati ooli, keooaachii, kahchu ooli tanegha ootatyechine. "
+                            },
+                            {
+                                "text": "Kahchu toowehchu yehti, Tyetahtyel naghai tyinta oolite yaghi kemwehchi, kahchu oontsutli natahyih: kootoo natlon yuhchighatestyetl kahchu yiteghatestyetl, atulita ahwosits kuzza ooli. "
+                            },
+                            {
+                                "text": "Kahchu naoonai ela tu chok ehkyeatachi ehkyeghaghityetl. "
+                            },
+                            {
+                                "text": "Kahchu tane kooya-ih achughatestyetlooh, kahchu natlone atakooyehti, kahchu tane natihti otsi atghe otsi ooghatehsut nito kwa otyiyi aghoo anetye oogha-i, kahchu tane tse nighanintyetl, aghanetye kiyunintyetl. "
+                            },
+                            {
+                                "text": "Kahchu Jesus hadesha natlone tane gha-ih, ohtye matsun tatihti kyehe indityesa, uspai etyieh uspai ghaghatane tane atu ayehi: kahchu tye yaghotatich natlon ooli. "
+                            },
+                            {
+                                "text": "Kootoo ayi dzinelon kwakoole tontyeto kloeh ooli, yaotatichne yachitestyetl, toowe yehtilon eh, Kemwehchi oolilon chodeh, kahchu kwa oonchadeh dzine kloeh ooli: "
+                            },
+                            {
+                                "text": "Achuyadeha tike okehe otsighatatyel, kahchu nito kwa ootlonchi, kahchu ataheghatutlihi gha otles tyes: atuli ghatsitsi aghahi ihe. "
+                            },
+                            {
+                                "text": "Ateyatetlalon hoole toowehchu yehti ihe, Naghanilon kiyioohtai kooyanahli. Kahchu toowe kiyehti, Yaghe otsi tawotyeli ataghawothhi ila sooniya onkye keoneti ketyi sachunai ehtye otles tyesta, yaghine ghaoohchuti? "
+                            },
+                            {
+                                "text": "Toowela ooli nayetilon, Taitya otles tyes ahiwo? oonkawahya. Kahchu ataghowatichi, toowela ghati, Hlahcheti, hluge chu onketi. "
+                            },
+                            {
+                                "text": "Kooh yehtilon eonetye tsi tahtsi kloke tanepyeds tgha. "
+                            },
+                            {
+                                "text": "Kahchu ghatye gheskyih inchake, keoneti ketyi tatehtsi inchinatatye, taghane chu hlahcheti ketyi inchinatatye tatehtsi. "
+                            },
+                            {
+                                "text": "Kahchu hlahcheti otles tyes niyatila hluge onketi chu, koohtike ookahtgha yatsi kahchu merci yehti, kahchu otles tyes yataghiyits, kahchu yaotatichne ghila yaniyulel gha; hluge onketi chu anetye tghaestich. "
+                            },
+                            {
+                                "text": "Aghanetye eghaghintalon, oochu tataghanastolon. "
+                            },
+                            {
+                                "text": "Kahchu keneti onketi matgha kloke asklu ghaisis tadesmanoo mechaghintai ihe, hluge ihe chu. "
+                            },
+                            {
+                                "text": "Kahchu yeghaghintaiine otles tyes oolitah hlahcheti keoneti keoneti ketyi sihlon enetyi sihlon tezoo. "
+                            },
+                            {
+                                "text": "Ieti tye kwete anetye ihe yutilon yaotatichne tachin elahkyeootyeli kha, kahchu taityechi otsighatuteligha haladih Bethsaida, achutehaton tane. "
+                            },
+                            {
+                                "text": "Kahchu kootoo achuteha, atai chu yitaityesha khis tsi yaootootyech. "
+                            },
+                            {
+                                "text": "Kahkachi aoocha tsi, tachin ela tatiche tsi tu chok taghalilooh, atane nunkuchi sahti ali. "
+                            },
+                            {
+                                "text": "Kahchu yai ohtye keotichoo atowazu; intsita oolieh: oolitah hatlindo aoocha soo tane wohniyalon, tu chok khai niyalon, kahchu yaooyeassilon. "
+                            },
+                            {
+                                "text": "Kiyainchi tu khai niya, kooh kooghati tane atsinde ali lontye kiyutih, kahchu ohtye oonighanityetllon: "
+                            },
+                            {
+                                "text": "Aghanetye kiyai, kahchu atu oochu indighatyesalon. Kwete inchi ooghatatyech, kahchu toowela yehti, Ohtye soonahtye: suni asli aoontye; atu ooneghahtyel. "
+                            },
+                            {
+                                "text": "Kahchu inkhadesha elahkye atine; kahchu intsi adezut: kahchu ohtye khawoghali, kahchu o-ochi khawoghali. "
+                            },
+                            {
+                                "text": "Atu ayi indi ghati ihe ayi o-ochi keochaachi kehchi otles tyes: aghatane koodzye natsuttieh. "
+                            },
+                            {
+                                "text": "Kootoo naghateskyi tsi, koonaghaghintyetl tike Gennesaret, kahchu tghaghiyetl. "
+                            },
+                            {
+                                "text": "Tghaghihyetl tsi ela ehkye tsi, kwete atakiyeti, "
+                            },
+                            {
+                                "text": "Kahchu kyeton ghatich aonetye ieti otusinkha, kahchu kyekyeyehtich ayi tyelisatyii tatihi, ali iteh oohatitsukooh. "
+                            },
+                            {
+                                "text": "Kahchu kwiyah assitih nito kwa chisinchi, nito kwa otyiyi koole, tike koole, nikiyityih ayi yatitine atghunni tiche koole, kahchu kichiniooghanunisit kikatutihi gha ghatye makestue maihe aghoo kiyuhchuti gha; yuhchutassihne anetye yaghitalon.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "KAHCHU anetye machichatyesha Phariseene, tahkine adesklesne chu, ha Jerusalem tsi ghatilhne. "
+                            },
+                            {
+                                "text": "Kootoo kiyainchi tahkine yaotatichne aghatsitsoo otlestyes atu ka tila tyeghintyekoo, ayi tsati, kila aghoo atu tyetsaghintyek, tahkine atu tyeswe kooghatilon. "
+                            },
+                            {
+                                "text": "Aghatane Phariseene, Jewne chu atghe, oontlon chi taghila tyenaghatichoo zon aoontye, atu aghatsits athli, kooghatghoonoo yaootyi hatseto koola otehchi meetiootyeha. "
+                            },
+                            {
+                                "text": "Kahchu naghatichta ataghe tsi, atu natsun nootootihul ate, atu awoontsitsassi. Kahchu ooli natlon ooli nikitilaine o-otghooni, tsa nootoochatuhul kahchu mihe tu tsato chu, tanihkluchi satsoone tataoochayihi takehchestai chu. "
+                            },
+                            {
+                                "text": "Kahchu Phariseene chu yatiklesne chu, Taotya kiyehti, Yehoo gha mawotintichne atu nakyehchi indi gha tyes aoontye tane haladi otichne tane, ahwole otles tyes eghaghinta atu tahila tyeghaghintyekoo? "
+                            },
+                            {
+                                "text": "Ateyatetla, kahchu toowe yehti, Oochu naghai nasetyilon Esaias naghani oontlon nahtahoo, takehnichatinkles akehe, Ayi tane oochu assaghati taaza ihe, ooh koodzye tontye saooh. "
+                            },
+                            {
+                                "text": "Ghatye ahwole kooyaootastech tanegha ooghatatyechoo tane mihe chioochatihi. "
+                            },
+                            {
+                                "text": "Tyinta saoo Nagha Tgha otiche, ooahtghoon tane yaghita kehe, nootghochadehulli mehtutsato tsa chu: kahchu ooli natlon ayi etye keoghaach. "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Oochu Nagha Tgha zake kyenaghali, maghahtai yu aoontye nagha onti. "
+                            },
+                            {
+                                "text": "Atane Moses kooehtii, Ohtye natgha chu noo chu tao-oncha; kooh hatyehlon ooline tatgha tsi to yu ketseliooh otih ate, chazuhelassi: "
+                            },
+                            {
+                                "text": "Ahwole naghai atahti aoontye hoontyeoo ooli tatgha koole to koole, Corban ayi, ayi tsati, kachiahi, yaghi ooli nakeoostich iyu aoontye; kao-ontsutti. "
+                            },
+                            {
+                                "text": "Kahchu atu otehchi machi nioonunahsit ooli yaaootli tatgha koole to koole; "
+                            },
+                            {
+                                "text": "Naghai hahte tsioone Nagha Tgha zake awahtla atuli kyewoti nagha oonti ihe, kanaooii: kahchu ayi etye natlon ooli keoaahch. "
+                            },
+                            {
+                                "text": "Kootoo chu aitye tane kawoti tsi, toowola yehti, Anahtye soozahtsoo naghani kahchu atahtsuk: "
+                            },
+                            {
+                                "text": "Atuli ayi tane matsun khitsi tatyezut ayi mazi ti achi chahtayuleassi: ahwole yetsi hayatehai ayi ali tane chahte ayihihchi. "
+                            },
+                            {
+                                "text": "Ooline matsakhe oolitane iiti ootootsukissi, inkai ootootsuk. "
+                            },
+                            {
+                                "text": "Kootoo tane oochu tyesha nito kwa, kwenaghacha yaotatichne taoontya yehtilon hleoontye akyehchi oochatihi. "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Kooka naghatsi toontooe aoontye? Atu kyenahtihela, ahtghazai ooli tsehtsi otsi kwetsutti tane, atu chahte ayili eyontye; "
+                            },
+                            {
+                                "text": "Atu madzye tsi ihe ahakootyeh, ahwole mapat tsi, kahchu hatsat oochu sookah nininkyieh aitye etsun? "
+                            },
+                            {
+                                "text": "Kahchu toowe ehti, ayi tane tsun tsi hadehtsutti, ayila tsahte ayihihchoonte tane. "
+                            },
+                            {
+                                "text": "Koodzye ta otsi tane, ine tsi tatyestek ootye indi metselihi, soochachai chu, nakhochityeli chu, tlahchazaghai chu, "
+                            },
+                            {
+                                "text": "Atsunne achuneih chu, machachintyi chu, inditselihi chu, oochachiti chu, naoona-i indyetselihi chu, atai metselihi chu, atacho chunehliti chu, achachatachai chu, tsaoochayaghi chu. "
+                            },
+                            {
+                                "text": "Anetye ooli metselihi kwetsut tane tsun tsi, ahwole tane tsahte ayila. "
+                            },
+                            {
+                                "text": "Ayiti otsi niiya, kahchu tghanatyesha Tyre yu Sidon yu, kahchu nito kwa ootanaghacha, kahchu koonoo atuline atawo-oti kootilon: ahwole atu nana-i iyu aoontyelon. "
+                            },
+                            {
+                                "text": "Ehlaiti tsege matue ooli ayehii atsinde metselihi, ootitsuklon, kahchu yuhchideshalon kahchu makye keh nadsutlon: "
+                            },
+                            {
+                                "text": "Yaghi tsege Greek tane, Syrophenician ine tsi ihe otsi tazelh; kahchu yachinioonunisit hayatoohai gha atsinde metselihi matue zi ta otsi. "
+                            },
+                            {
+                                "text": "Ahwole Jesus toowe yehti, Inkai hatse tsito tatanooto; atu oochu tsito taghaotlese kooyehwawachutalli, koohchu kli tsi tsatulihi. "
+                            },
+                            {
+                                "text": "Kahchu ateyatetla kahchu toowela yehti, Ehye, aghaghintaihi: hoontye ooli takyeh yechihtati yue natunahtyeli kli tghaoohtsi. "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Tidi sa ihe oodinta; atsinde metselihi natue tsun tsi hadesha. "
+                            },
+                            {
+                                "text": "Kooh niya tsi takwa, yihtyi atsinde metselihi hadesha tsi, koohchu matue takyeh ustyi keh tyelasatyi. "
+                            },
+                            {
+                                "text": "Kooh kahchu yitaityesha Tyre yu Sidon yu otsi, otsidesha tu chok tsi Galilee, taghaniya Decapolis. "
+                            },
+                            {
+                                "text": "Kahchu kiyananioo hligi majih oontooehu, atu chu oochu ootatichoo; kahchu yachinioonunisit kooya katootihi gha. "
+                            },
+                            {
+                                "text": "Kootoo otsi yatehti tane natlonti, kahchu yaji ta katihtich, kahchu ghizek, yetsoode chu katehtich; "
+                            },
+                            {
+                                "text": "Kahchu yatsi ookahta, otyesta, kahchu toowe yehti, Ephphatha, ayi, Tahaootsitti. "
+                            },
+                            {
+                                "text": "Itetyeh kwete maji ta hatachil, kahchu matsoode klule tihatuk, kahchu oochu otatich acha. "
+                            },
+                            {
+                                "text": "Oochu atuline ataawoti yehtilon: ahwole otaihchi atuline satsih ataawotihi, otaihchi ohtye koohootyeh; "
+                            },
+                            {
+                                "text": "Kahchu o-ochi kao-oli toowe yehtie, Atghaze ooli tsiwohzon keoahchlon: oochu majioontoowene anayitla oochu ootootsuki gha, kahchu saintakline oochu ootootyechi gha.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "AYI dzine tane o-ochi natlone, kahchu atuli aghahi kiyutsitsi, Jesus yaotatichne tyechi yehti, kahchu toowe yehti, "
+                            },
+                            {
+                                "text": "Satyaghisunni tane natlone, kooh kwa taiti dzinee sihaghahtyih, atuli chu aghahi ghatsitsi ooli. "
+                            },
+                            {
+                                "text": "Achu kootyehaitye tagha kwa tsi yaghatipatooh, woianh oohatootsitassi, natlone tontye tsi otsighatelyu. "
+                            },
+                            {
+                                "text": "Kahchu yaotatichne atetyataih, Tyechi otsi gha tayanooto tine tane otlestyes ihe chode kemweh? "
+                            },
+                            {
+                                "text": "Kahchu Taitya otles tyes ahi yehtilon? kahchu toowe ghati, Taiuchi. "
+                            },
+                            {
+                                "text": "Tane tsi tsiwohzon tahtsi tike wozon: ayi ninayatila taiuchi otles tyes, kahchu merci ehti, kahchu yataghiyits, kahchu yaotatichne ghila oochu yaniyuleli; kwa kiyaniyila ine tane gha. "
+                            },
+                            {
+                                "text": "Kahchu akiyehii tahke hluge yaintsutle: kahchu merci ehtilon, kooh ehtii ine gha nichuleli. "
+                            },
+                            {
+                                "text": "Kahchu eghaghintalon oochu tataghanastolon: kahchu nachatanatyetl neghatila mechacheliih, taiuchi kloke ghaisis tghatatyesmanooh. "
+                            },
+                            {
+                                "text": "Kahchu ine eghaghinta, oolita tiko keoneti keoneti ketyi enetyi silon: kahchu achudehalon. "
+                            },
+                            {
+                                "text": "Kwete ela kyiya yaotatichne chu, kahchu yuhchidesha chisinchi Dalmanutha. "
+                            },
+                            {
+                                "text": "Kahchu Phariseene yuhchihatestyetla, kwete kichi sooghatayehch, kiyinkhanata yakachi otsi ehtoole taoontya kiyehti. "
+                            },
+                            {
+                                "text": "Kahchu ohtye hoontatachehlon matsinde otsi, toowe ehtie, Yehoo gha ine chi hlioolate kiyinkhanata ehtoole, kwa hli anaghaisii, atuli ehtoole naghachualassi tine maghestyekne. "
+                            },
+                            {
+                                "text": "Kahchu yechudesha, kwete elahkyiya taityechi otsi kahchu yitaityesha. "
+                            },
+                            {
+                                "text": "Mawotintichne iine kiyutoonaghatihlon otlestyes kitoolai, kahchu atuli aghahii elahkye ehlaiti zon otehchi otles tyes aghahilon. "
+                            },
+                            {
+                                "text": "Kahchu yechiwoteh. Tyeke khaghahta mehotles chihutli Phariseene, kahchu mehotles chihutli Herod natunne. "
+                            },
+                            {
+                                "text": "Kahchu inchioohwatatyech, kooh atuli otles tyes assii ihe. "
+                            },
+                            {
+                                "text": "Jesus atawotihchi, toowe ehti, Yehoo gha inchiootahtyech aoontye atu otles tyes ahi? atu ka atawahtihala, atahtsuk koole? kooka naghadzye natatsutooh sahoohwaoontye? "
+                            },
+                            {
+                                "text": "Naghatai chu ooli, atu ookanahtghaala? naghaji chu ooli, atu atahtsukila? atu chu kyejetahtila? "
+                            },
+                            {
+                                "text": "Kooya tseghila tsi hlahcheti otles tyes hlahcho ootatye keoneti keoneti ketyi enetyi, tanetyi kloke ghaisis tadesmanooh nachatanatyetl nita la? Toowe yehti, Keneti onketi matgha. "
+                            },
+                            {
+                                "text": "Kahchu taiuchi aline kootghasitich tikooh keoneti keoneti ketyi enetyi, tanetyi kloke ghaisis tadesmanooh nitalala nachatanatyetli? Toowe yehti, Taiuchi. "
+                            },
+                            {
+                                "text": "Toowehchu yehti, Yehoo gha atu atahtsak aoontye? "
+                            },
+                            {
+                                "text": "Kahchu yuhchityesha Bethsaida tsi; kahchu kiyananihtyi teze mataituehi, kahchu kichiniooghanunisit yakatutihi. "
+                            },
+                            {
+                                "text": "Kwa yila inchut ayi teze mataituehi, kahchu nito kwa tsi achuyetehti; kahchu yatai keghizek tsi, kahchu yakahtehtichoo, taoontya yehti ooli ghiila. "
+                            },
+                            {
+                                "text": "Kwa yachi tahyatii, kahchu ehti, Tane ghussi tachin etotyeni. "
+                            },
+                            {
+                                "text": "Kahchu yatai katehtich, kahchu yitige ookanahta yehti: kootoo oochu oontyei, kahchu aitye tane oochu ya-iine. "
+                            },
+                            {
+                                "text": "Kahchu yakwa tsi yeteha, toowe yehti ihe, Atu otsitaooya nito kwa, atuline chu tataoonti nito kwa. "
+                            },
+                            {
+                                "text": "Jesus hadesha, yaotatichne chu nito kwa tsi Caesarea Philippi; otsighatelu, Taootya yaotatichne tsi ehtilon kooh yehtiihe, Mea ali saghatya tane? "
+                            },
+                            {
+                                "text": "Kahchu toowela ghati, John tanetukeghinkliti tane ali: ahwole tahkine Elias ghati; kahchu achune atanetaihchi atawotine tane. "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Ahwole mea ne ahlaoontye? Kahchu Peter ateyatetla kahchu toowela yehti, Nuni ayi Christ. "
+                            },
+                            {
+                                "text": "Kwa yatati atuli tsi hohohoontye atuneoo. "
+                            },
+                            {
+                                "text": "Kahchu tyi yaotatich, teze chue atghazi ooli kawotoohunne, kahchu yenaooli hoola ale, taneghaotatichi metihi chok yu, adesklesne chu, kahchu tsazughelyu, taiti dzinee kaohtzut ate kahchu tsitike naootezi. "
+                            },
+                            {
+                                "text": "Kahchu ehtii ayi zake tanenichi. Kahchu Peter nayanaun, kahchu tyi chuhootatyech. "
+                            },
+                            {
+                                "text": "Ahwole natanyesha tsi yaotatichne chu kanehtgha, Peter chuatatichlon, toowe ehti ihe, Satuchi otsidiya nuni atsinde metselihi: atu indi natih Nagha Tgha tsi tatyesuttih, yaghi zon ooli tane tsi tatyesuttih. "
+                            },
+                            {
+                                "text": "Kootoo tane tsi tyechi ehti yaotatichne chu toowe yehti, Ooline sakehtayeh ati, inkai oochit atu tuti ninayatooalli matsookhatayaghi, kahchu nakehtuyesi. "
+                            },
+                            {
+                                "text": "Ayih sye nayaghoohtalon kyehghata kehe, tghayatualassi; ayi tayadesooatai kyehghata kehe suni tsi kahchu otich oochu chu, ayi nayahoohtezi. "
+                            },
+                            {
+                                "text": "Yechiha yatsi ewoyuesiha tane, tike okehe ootanatsut ateoo, tatsinde tghayaghatyeshai ate? "
+                            },
+                            {
+                                "text": "Ooli sitah tyesooite taghatai tah? "
+                            },
+                            {
+                                "text": "Ooline siooyale tane zake chu chode soochaghachatai chu kyidyetseli chu tanegha; ayilon atane tane chue yaooyaooli, kootoo yuhchininiye ate kochi soochunetyi Matgha keotichne oochune chu.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "KAHCHU toowe yehti, Kwa hli anaghaisii tahkine chode natehyane atu koozetse nio-olyezi, naooghatyitsi ooli ate Nagha Tgha kyeyi khoonao-ozit ate mehnatsutsutti yu. "
+                            },
+                            {
+                                "text": "Edzetaiti dzine kloe Jesus Peter chu, James chu, John chu hlyekeghatechlon, kwa hlilon otsighatyesha khis tsi ohtye nataghisatti sahte ooghatyi: kahchu yakaitghaityeh achu meotati. "
+                            },
+                            {
+                                "text": "Kahchu makestue mesaniti takulli kye yas etye; atuline chode tike hahtye takulli awolene ooli. "
+                            },
+                            {
+                                "text": "Kahchu klohnaaghityetl Elias chu Moses chu: kahchu inchiooghatatyech Jesus chu. "
+                            },
+                            {
+                                "text": "Kahchu Peter otyesta, toowehchu yehti Jesus tsi, Metihi, chode itli gha oochu: inkai taodatyedi kwa aootlihi; ehlaiti nuni gha, ehlaiti Moses gha, ehlaiti Elias gha. "
+                            },
+                            {
+                                "text": "Atu ti kehe atu ataotihi ihe; ohtye oonighanintyetl ihe. "
+                            },
+                            {
+                                "text": "Koos inchi ghililon: kahchu sa ooghatitsuklon yatsi, toowe otieh, Tai la se Chue menusli: Soozehtso. "
+                            },
+                            {
+                                "text": "Intyizon, aoonetye ookaghanehtha, atuline otehchi kiya-i, Jesus zon kooyehkatech. "
+                            },
+                            {
+                                "text": "Khis chi chyesta ghatestyetlyu, yanaootatich atuline tataeonti ooli ohwehtyi, teze Chue niiya ate zon mazetse otsi. "
+                            },
+                            {
+                                "text": "Ayi zake kaghaghatalon, ayi yea tane zetse achatya oontye toon ghlaghatati. "
+                            },
+                            {
+                                "text": "Kahchu yehoo gha kiyehti, atesklesne yehoo gha koohatya oontya Elias hatse naoojezi? "
+                            },
+                            {
+                                "text": "Kahchu ateyatetlalon, yatatio yu, Kwa hli Elias hatse niya, atghe chu ooli sookah nioonila; kahchu takehnichatinkles akehe teze Chue ihe, natlon ooli kaootoohanu, kahchu menachule. "
+                            },
+                            {
+                                "text": "Ahwole suni anaghaisii aoontye, Elias kwa hli nooja, akooghati sikooh kooyekechatihtihch, takehnichatinkles akehe atanewoh. "
+                            },
+                            {
+                                "text": "Kahchu yaotatichne wohniya tsi, tane natlone yehkyatich chu yailon, adesklesne chu, taoontya tookooyetilon. "
+                            },
+                            {
+                                "text": "Kwete atghe kiya-ichi, atghe kaooghalilon, kahchu kichiodehsut yilaghinchutlon. "
+                            },
+                            {
+                                "text": "Kahchu adesklesne tsi, Taoontya nayeti? "
+                            },
+                            {
+                                "text": "Ehlaiti chu tane natlodi otsi ateyatetla toowechu yehti, Metihi nananihtyi sachue ayehi atsinde saititakli; "
+                            },
+                            {
+                                "text": "Kahchu oolita yihchut assiti koohoontye yayaghinchil: maza tsi oohwoos ooli chu, maghoo natazutsun chu, toontyiyazighai chu: kahchu taoontya kooyesi mawotintichne ghakitoohai gha; kwa hli kooyandatla. "
+                            },
+                            {
+                                "text": "Ateyatetlalon ahwole toowe ehti ihe, Naghai naghaje toontooe assine, taisa tsi otsi naghai aoostya aoontye, taisa tsi otsia naghatagha ooslya aoontye? Sananaha. "
+                            },
+                            {
+                                "text": "Kahchu kiyananiooh: ya-inchi kwete atsinde kooghoontye yayaghinchil; kahchu tike nadsut, kahchu yatatatyech maza tsi wohoos hailyi. "
+                            },
+                            {
+                                "text": "Taoontya yatgha tsi ehti taisa toh otsi kooh hoontyontya? Toowe yehti tsito ali toh otsi kooh hoontye. "
+                            },
+                            {
+                                "text": "Oontlon chu tsichataintyi tyenayehtyech ahoo yu, chahteayuliassi: ahwole oolita aotunatlihlon ate, ahoohchunaya, kahchu ahachinootyeh. "
+                            },
+                            {
+                                "text": "Jesus toowe yehti, Aha koodinti ate, atghazi ooli nakeotoonezi ayi aha kooti. "
+                            },
+                            {
+                                "text": "Kahchu kwete ayi tsito tatgha tsi otyesta, toowehchu ehti manatu ooli, Naghaghintai, kwa hwe a koosti; oochinootyeh atu a koodestihi. "
+                            },
+                            {
+                                "text": "Jesus wa-ichi tane yuhchiinhlaghatelyu, atsinde metselihi tsighotye, toowe yehtie, Nuni naza oontooehi najih oontooe ahoo yu atsinde nali, ohtye anesii, yuhchihadiya matsun tsi, atu chu mazi kahchu taooya. "
+                            },
+                            {
+                                "text": "Kahchu atsinde otyesta, kwete chu yayaghinchil, kahchu yatsun tsi ghotyesha: kahchu tane zetse etyelon; ayiwola natlone, Tehtsut ghatya aoontye. "
+                            },
+                            {
+                                "text": "Ahwole Jesus yila inchut, kahchu tahyatihtyih; kahchu tsitike nesta. "
+                            },
+                            {
+                                "text": "Kootoo kooyachi nito kwa, yaotatichne sahti wahtila yehtilon, Yehoo gha naghai atu nanitun oontye? "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Haoontyedi atu ghatyeh ooli ihe ghachatayach, neaghasuchuli zon atu atsutsits ihe chu. "
+                            },
+                            {
+                                "text": "Ieti otsi achughatestyetl, Galilee chu kyechoghatestyetl; koohchu kootilon atuline atawo-otihi. "
+                            },
+                            {
+                                "text": "Atai yaotatich ihe yaotatichne, toowehchu yehti, Teze Chue tsataghinsut tane tgha, kahchu kizoohelassi; kahchu tsazehai ate, kahchu tsitike nawataizi taiti dzinee. "
+                            },
+                            {
+                                "text": "Ahwole atu ooghatitsukoo ayi zake, kahchu taoontya kiyutekhai ooianh kyeghanejit. "
+                            },
+                            {
+                                "text": "Kahchu yuhchidesha Capernaum: nito kwa oota ati otye taoontya yehtilon, Yea khama ootahtyechii atghunni otichi? "
+                            },
+                            {
+                                "text": "Aghoo atu yachutyehlon: aghatai hahte atghunni otichi hoonchati inchi sooghatatyechlon, mea otehchi chatinchai kha. "
+                            },
+                            {
+                                "text": "Kachu nesta, keneti onketi matgha tyechi yehti, kahchu toowe yehti, Ooline haladi tooshai ate, ayi zon hli haistlachi ayuhezi, kahchu tane gha aoonetye gha keo-otechassi. "
+                            },
+                            {
+                                "text": "Kahchu tsito niyatihtyi, kahchu tane kuzze nayenihti: kahchu yakoone yinchut tsi toowe yehti, "
+                            },
+                            {
+                                "text": "Mea so niyatuhtyeloo ehlaiti ayi etye tsito sindizi kehchi, suni nisatintyi: mea so nisatuhtyeloo, atu suni nisatintyi, ahwole ayi yuhchisatyehai. "
+                            },
+                            {
+                                "text": "Kahchu John ateyatetlalon, toowe ehtie, Meti, ghityii ehlaiti atsinde metselihi hayateha nindizi ihe, atu chu naghaketayeh: kahchu nanitun, atu naghaketayeh ihe. "
+                            },
+                            {
+                                "text": "Jesus toowe ehti koole, Atu nanaghahun, atuline keoosahch akehe keo-oahchassi sindizi ihe, kwete ketseli hakehe sachuohooteissi. "
+                            },
+                            {
+                                "text": "Kahchu ayi atu chahte anahilai naghachinati. "
+                            },
+                            {
+                                "text": "Mea so chu naghaooalu ehlaiti tsa taismanni tu woton tsindizi ihe, Christ ezon manatunne aghli, kwa hli anaghaisii, atu tayatooalassi machitikechalihi. "
+                            },
+                            {
+                                "text": "Kahchu ooline chahteayile assine ehlaiti tidi natsutli aha sooti, otehchi ootaizi atunewoh mehnachahtune kazze tsye ma koos echaghesklu ate, tyechunnityeh ate tu chok ticha tsi. "
+                            },
+                            {
+                                "text": "Kahchu nila chahtontye ate, hlyenihul: otaihchi oochu nuni gha kweghoya tsaghatati achaghilihi ihe, nila onketi aghoo kochi otsitiya iyu aoontye khoon metselihi tsi, khoon atu nanatsaisti: "
+                            },
+                            {
+                                "text": "Nootya atu taikyehti, khoon chu atu nanatsaisti. "
+                            },
+                            {
+                                "text": "Kahchu nakye chahtontye ate, hlyenihul: otaihchi oochu nuni gha kweghoya tsaghatati achaghilihi ihe, nakye onketi aghoo ghotsinachatutyeissi khoon metselihi tsi, khoon atu nanatsaisti: "
+                            },
+                            {
+                                "text": "Noota atu taikyehti, khoon chu atu nanatsaisti. "
+                            },
+                            {
+                                "text": "Kahchu natai nihe atu oochu ookaitghai ate, hanehchul: otaihchi nawotaizi Nagha Tgha tike tsi oowooeissi natai ehlaiti ate, natai onketi aghoo ate otsinachatuhtyelassi khoon metselihi tsi: "
+                            },
+                            {
+                                "text": "Nootya atu taikyehti, khoon chu atu nanatsaisti. "
+                            },
+                            {
+                                "text": "Aitye tane sootakun natghachulelassi khoon ihe, tsichatullihi assi chu sootakun ihe matghaachulehesi. "
+                            },
+                            {
+                                "text": "Sootakun oochu: ahwole sootakun natuetah sootakun matghachilihi, tyeha kyehea sootakun matgha awahhliha? Sootakun kyatihch, kahchu oochu eotine klahtyi.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "KAHCHU iiti otsi niiya, kahchu yuhchiklodesha Judea ti otaihchi Jordan natyechi: kahchu tane yinkhatyesha; kahchu tane ootanaun akehe kooh otye keeoach ahli taneghaotatyechoo. "
+                            },
+                            {
+                                "text": "Kahchu Phariseene yechitestyetl kahchu taoontya yehti, Oochu la teze tatsiyue yechanaolohu aotezi? kikaotyehunooh. "
+                            },
+                            {
+                                "text": "Kahchu ateyatetlalon toowehchu yehtilon Tyeha kehe anaghehtya Moses? "
+                            },
+                            {
+                                "text": "Kahchu toowe ghati, Moses hatyeh kha syeklah takehnichatinklessi o-ochatihtyehi adusklesse, kahchu oonchatoohtyellu. "
+                            },
+                            {
+                                "text": "Kahchu Jesus ateyatetlakahchu toowe yehti, Naghadzye natsut akehe ayi ihe naghatsi achateskleslon tidi sa. "
+                            },
+                            {
+                                "text": "Ahwole hatseto otsi tike ooli toh Nagha Tgha teze oola tsege chu. "
+                            },
+                            {
+                                "text": "Ayi otsi teze tatgha echeli to chu kahchu tatsiyue kah awoti; "
+                            },
+                            {
+                                "text": "Kahchu kooh chu onkeghatatye kootsun ehlatootyesi: atu otaihchi onkyeghatutyesi ahwole kootsun ehlatootyesi. "
+                            },
+                            {
+                                "text": "Oo ayi Nagha Tgha tsayaghehtichii, atuline inchake niyulel. "
+                            },
+                            {
+                                "text": "Kahchu nito kwa oota yaotatichne taoontya yehti kwaka inhligi tsi. "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Ooline assine tatsiyue odehtyetine achune chu makahtueh akoochaile ate, soocha keoach. "
+                            },
+                            {
+                                "text": "Tsege chu tatsiyue odehtye, kahchu makahtueh achilai ate, soocha keoach. "
+                            },
+                            {
+                                "text": "Kahchu kiyananihtyi tsito yechihai, yekatootihi; yaotatichne yachuootatyech ayi naghanihtyisi ihe. "
+                            },
+                            {
+                                "text": "Ahwole Jesus wa-ichi, ohtye atu minihtike ooghilelon, kahchu toowe yehti, Ghateh kooyasahlah tsito yechihai sachaghatutyeli, kahchu atu nanahahun: ayi ihe nao-oaizi Nagha Tgha kyeyih tsi. "
+                            },
+                            {
+                                "text": "Kwa hli anaghaisii. Ooline atu niyatiooti Nagha Tgha kyeyih yechinekehchi atu Nagha Tgha kahchi koowoyezi. "
+                            },
+                            {
+                                "text": "Kahchu yakoone ihe niyatintyih, kahchu yakatihtich, kahchu oochu yachi indityesa. "
+                            },
+                            {
+                                "text": "Kahchu yitai tyesha atghunni kehchi, ehlaityi yuhchidesha ghatlelhu, kahchu yachinachustatalih, kahchu taoontya yehti toowe, Oochu Tanechiotyihi, tawoshlaitea ahtaze wostazonha? "
+                            },
+                            {
+                                "text": "Kahchu Jesus toowe yehti, Yehoo gha oochu indityesa sindilon ha? atuline oochu oontye ehlaiti zon, ayi Tikeaootli. "
+                            },
+                            {
+                                "text": "Sa tsiwohzon atanati, Atu soocha aoonta, Atu chu tane zaoohel, Atu chu anaooih, Atu chu ketselihoo tsiwotahoontich neotinoo, Atu chu tane nawoah, Ohtye taghooncha natgna chu noo chu. "
+                            },
+                            {
+                                "text": "Kahchu ateyatetlalon toowehchu yehti, Taneghaotatich, atghe tidi kama indityeaiih yeshihto otsi. "
+                            },
+                            {
+                                "text": "Kahchu Jesus yakaihtgha, yuntyeh, kahchu toowe yehti, Ehlaiti ooli nainchi tehtsut: ootinta, anehisi anetye mataghaneli, tyetaisanaine chu ghatanale, kooh ohtye natatootlosi ya tehchi: kahchu yuhchidiya, kahchu ninaootiah ayi sookatiya-i, kahchu sakehtiya. "
+                            },
+                            {
+                                "text": "Kahchu atu oochu indityesalon ayi sa tachi, kahchu yitaityeshalon atu keneli ihe: atane ohtye ooli natlon ayehilon. "
+                            },
+                            {
+                                "text": "Kahchu Jesus klokanatgha, toowehchu yehti yaotatichne, Tewotye atatlate ayine matatintlone kwewootyelassi Nagha Tgha nataghe tsi! "
+                            },
+                            {
+                                "text": "Kahchu yaotatichne yazake kaooghulli. Ahwole Jesus ateyatetla kahchu toowehchu yehti, Tsitohkaine, tahtye indatlaooh ayi kiyasooli mehmehetatintlon kwewootyelu Nagha Tgha mataghe tsi! "
+                            },
+                            {
+                                "text": "Ayi kyeotunni ghatai kwewotyizoo apetsiche kaookoodi, o-ochi matatintlon ehlaiti teze kwewoya Nagha Tgha nataghe tsi. "
+                            },
+                            {
+                                "text": "Kahchu o-ochi ghaooghali, toowe hlaghatati ihe, Mea mechua aghatoota? "
+                            },
+                            {
+                                "text": "Kahchu Jesus yakaitgha toowe yehti, Tane la atu kookechi nioontsit, Nagha Tgha la atu kooh hoontye: aha atane Nagha Tgha atghezi ooli mahechi nioontsut. "
+                            },
+                            {
+                                "text": "Kahchu Peter toowe tyi ehti, Nea anetye kyecho tasityetl, kahchu naghakyehtasityetliih. "
+                            },
+                            {
+                                "text": "Kahchu Jesus ateyatetla toowehchu yehti, Kwa hli anaghaisii, atuline ooli kyeghachelihine nito kwa, mekye koole, mehtghizze koole, matgha koole, ma koole, matsiyue koole, maskyege koole, matsatle koole, suni ihe, kahchu otich oochu ihe, "
+                            },
+                            {
+                                "text": "Ahwole otsinitooalassi keonetyi ketyi otehche enetyi too, nito kwane, mekye chu, mehtghizze chu, matgha chu, ma chu, maskyege chu, makyeyih chu, kahchu tsookatayaghi chu; kahchu achu tike tsi ghonioonizut ate kwihzon ehchaghatai. "
+                            },
+                            {
+                                "text": "Ahwole natlone haladi atine haistlachi awotyeissi; kahchu haistlachi atine haladi awotyeissi. "
+                            },
+                            {
+                                "text": "Kahchu atghunni aghatii Jerusalem otsi ghatestyetlu; kahchu Jesus yaghatyesha: kahchu kawoghuli; kahchu kiyahsellu oonighanityetlon. Kahchu niyatila keneti onketi matgha kahchu yatatati yesoo yuhniyi ihe, "
+                            },
+                            {
+                                "text": "Toowe ehti ihe, Nea Jerusalem otsitatyetl; kahchu tane Chue niyatoohtyelassi taneghaotatich tyiyine, adesklesne chu; inkai mazetse ooli kiyehtlon, kahchu kiyaniyutyelessi achunene; "
+                            },
+                            {
+                                "text": "Kahchu kiyachaochesi, kahchu kikatootoozassi, kahchu kikyehoozekassi, kahchu kizoohelassi: taiti dzinee awooche ate tsitike nawootyeissi. "
+                            },
+                            {
+                                "text": "Kahchu James chu John chu, Zebidee chue, yachidesha toowe yehtie, Taneghaotatyechi, kooh koosti aghaawoti akootiti sikooh. "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Yea sachi nioonunassit naghachanasti? "
+                            },
+                            {
+                                "text": "Kahchu toowe kiyehti, Aghaniah sookah ookyetih, ehlaiti mehoonati, hligi oosklaghazihtye, nachatinchai kehe. "
+                            },
+                            {
+                                "text": "Ahwole Jesus toowe yehtii, Atu atawahti ooli ootahkyeti: atu mihe tuwahto la ayi tsa mehtughastoii? kahchu tunaghakechuhkliti ayi mehtanekhaitsikliti ayi ihe nehsakaichihkliti? "
+                            },
+                            {
+                                "text": "Toowe kiyehti, Atu ahandatla. Kahchu Jesus toowe yehti, Kwa hli tuwahtoissi tsaeh ieti otsi tughastode; kahchu ayi mehtukhaitsihkliti mihe tusakechihklitii ihe ayi ihe mihe naghakyechuhklitassi: "
+                            },
+                            {
+                                "text": "Ahwole wostyi chisinchi chu tayaghetichu oosklaghazintye atu si senatunne eli kaooali; ahwole kooyachulelassi ayine kooya so-ochesunne, "
+                            },
+                            {
+                                "text": "Kahchu kenetyine aghatitsuk chi ohtye atu yatsi kyehanelilon James chu John chu. "
+                            },
+                            {
+                                "text": "Ahwole Jesus tyechi yehtilon toowehchu yehti, Atawahti ayi kechanehtya kehe kikaootsutti ayi achune kooyakeolech; kahchu kootaityiye kooyaghatah. "
+                            },
+                            {
+                                "text": "Ahwole naghai atu kooh akehe naghahtyeissi: Ahwole ayi koonoochu sachatoohcha kooti, naghani ayi nagha keo-otichassi: "
+                            },
+                            {
+                                "text": "Kahchu ooline assine naghani ihe haladi miindichatoesi o-ochi chatoohchai gha, tane glia keo-otichassi achanetye gha. "
+                            },
+                            {
+                                "text": "Ayi aghoo teze Chue atu makeochatichi ihe yuhchideya, ahwole tane gha keo-otichassi, kahchu khaooallu yeghataisi natlone yatachi ootane. "
+                            },
+                            {
+                                "text": "Kahchu nighanintyetl Jericho: kahchu Jericho otsi hatayaooh yaotatichne chu tane natlone chu, mataituehi Bartimaeus, chue Timaeus, tinkuzze satah tyechihi ihe. "
+                            },
+                            {
+                                "text": "Atitsuk chi ayi Jesus Nazareth chihtatyezutti, ohtye tyi otyesta, kahchu toowe yehti, Jesus nai chue David, soonchoonaya. "
+                            },
+                            {
+                                "text": "Kahchu natlone yatati atu awotihi gha: hoontye ooli otaihchi ohtye otyesta, David chue, soonchoonaya. "
+                            },
+                            {
+                                "text": "Kahchu Jesus hlininiya, kahchu kwehakehe ehti. Kahchu tyechi kiyehti ayi teze mataituehi, toowe kiyehti ihe, Kyeneneli, niiya; tyechi nehti. "
+                            },
+                            {
+                                "text": "Kahchu ooyadehchus yiatehtakadi, niiya, kahchu Jesus tsidyesha. "
+                            },
+                            {
+                                "text": "Kahchu Jesus otyesta toowehchu yehti, Ye sachinioonunisita anusleha? Ayi mataituehi teze toowe ehti, Aghaghintai, setai saanaoontlihi. "
+                            },
+                            {
+                                "text": "Jesus toowe yehti, Taihchi ootinta; na-ihe naghinta. Iitetyeh matai naootli, kahchu Jesus kyehtesha atghunni.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "Kahchu hwa aghatyi Jerusalem, Bethphage chu Bethany chu chisinchi, khis kuchi Olives aghatyi, yitaityeha onketyene yaotatichne, "
+                            },
+                            {
+                                "text": "Kahchu toowe ehti, Taihchi otsitahtyel yito kwa oontlo chi naghanataihchi: kahchu kweghaachatyeh soosooklya aghahtyelassi taghaklu, atu makai achatyi; tahwahut, kahchu yuhchinaghahtyel: "
+                            },
+                            {
+                                "text": "Kahchu ooline toowe naghai tyete, Yehoo gha koohghahtya oontye? kooh taghahti, Metihi tiye hehti; kwete cho otsi nayaduesi. "
+                            },
+                            {
+                                "text": "Kahchu yitaighatestyetl, kahchu soosooklya kiyintyi taghaklu tusklahooka atghunni yaghintyidi; kahchu tahkiyainghut. "
+                            },
+                            {
+                                "text": "Kahchu tahkiae iiti naihyani toowe kiyehti, Yehoo gha kooh hahtya oontye taghautti soosooklya? "
+                            },
+                            {
+                                "text": "Kooh kiyehti koohotye ayi Jesus akooyehtii: kwa kootayinchut. "
+                            },
+                            {
+                                "text": "Kahchu soosooklya Jesus gha naghunihtyi, kahchu kiyeatetahkatti keghihla; kahchu yakaisata. "
+                            },
+                            {
+                                "text": "Kahchu natlone kiyeatetahkatti atghunni tsiyaghestla: kahchu achune naghaghihul tatsi tachin tsi, kahchu ghatyeh atghunni ghatunihla. "
+                            },
+                            {
+                                "text": "Kahchu ayine haladi atine, kahchu ayine tanekeghatailhne, oghatyesta, toowe ghatieh,Hosanna; Moohchuootaya ayi yuhchideshai yindizi ihe Naghaghatai: "
+                            },
+                            {
+                                "text": "Koonoochu moohchuootaya manataghe nagha tgha David, yuhchideshai tindizi ihe Naghaghatai: Hosanna ayi zon o-ochi yataihchi miindiotehah. "
+                            },
+                            {
+                                "text": "Kahchu Jesus kwiya Jerusalem, o-ochi tyetachatlihi kwa chu: kahchu kootoo anetye ooli ookaghanehtghachi, kahcu kahkachi aoocha koohnioonizutooh, hadesha Bethany tsi keneti onketi matgha chu. "
+                            },
+                            {
+                                "text": "Kahchu naodike tsi, ooatastyetl Bethany tsi tapat: "
+                            },
+                            {
+                                "text": "Kahchu chiche chok chine toontyetsi ya-i maton ooli, yuhchidesha intyizon ooli ion ate: yuhniya tsi aton zon yilah; atu ka chiche nichatilesti kho nioonizut ihe. "
+                            },
+                            {
+                                "text": "Kahchu Jesus otyesta toowehchu yehti, Atulire otsitsassi chiche nai ihe too otsi nioonizutti otsi. Kahchu yaotatichne oohatitsalon. "
+                            },
+                            {
+                                "text": "Kahchu nighanintyetl Jerusalem otsi: kahchu Jesus kwiya tyetachatlihi kwa otyiyi, kahchu hayadesla ayine atagholane kahchu ataghatotane tyetachatlihi kwa otyiyi wota, kahchu yechonayadehklit yakeehtai ayine sooniya klaghayihne, kahchu yestahi chu ayine oyetli tagholane; "
+                            },
+                            {
+                                "text": "Kahchu atu hatyeh yasehlai iyu maaoontye ooline yatooai oolita tatawochulihi tyetachatlihi kwa otyiyi oota. "
+                            },
+                            {
+                                "text": "Kahchu yaotatich, toowe yehti ihe, Koo atu kooh akehe nichatinklessi la, Sa kwa anetye tane tyetachatlihi kwa wowohyih? Ahwole kooh awahtla anoosine take. "
+                            },
+                            {
+                                "text": "Kooh adesklesne chu taneghaotatichne tyiyine metihi chu oohatitsuk, kahchu oonkhaghanatgha tyeha kehe chahteakiyule gha: yeghanejit ihe, aitye tane khaooghulli ihe yachihootehe. "
+                            },
+                            {
+                                "text": "Kootoo kahkachi ooli tsi, hadesha nitokwa wotyih tsi. "
+                            },
+                            {
+                                "text": "Kahchu hatlindo aoocha, taihchi ghataihlu chiche chine maghaye otsi ya-ikoonoo kiya-ih. "
+                            },
+                            {
+                                "text": "Ayi Peter kyejetitihyu toowe yehti, Taneghaotatyechi, makintgha ayi chiche chine atu tyeswe adintii kwa sakoon. "
+                            },
+                            {
+                                "text": "Kahchu Jesus otyesta, toowehchu yehti, Nagha Tgha aha oodinti. "
+                            },
+                            {
+                                "text": "Atai kwa hli anaghaisi, ooline ti khis atyetane, Achu ninintsit kahchu otsinachatoohtyeli tu chok tsi; kahchu atu tawahkootye ate tadzye ihe, ahwole ihe kootilon ate ayi ooli ehtii sakyehchi niwotsitti; awohiisi atghazi ooli tyekootesi. "
+                            },
+                            {
+                                "text": "Ayi ihe anaghaisii, Ooli si nioonunisitassi, aghaswehlye ate, ihe kootahti nitaghahali, koohzon naghahaisi. "
+                            },
+                            {
+                                "text": "Kahchu natahya otye aghaswehli intyizon ooline oolakehe chahte meititaai ate: Nagha Tgha naghai chu ya tehchi ati naghaoochatoohulassi nagha metselihi. "
+                            },
+                            {
+                                "text": "Ahwole atu ootalai ate, atu naghani chu Nagha Tgha yatehchi ati naghaoodohulassi nagha metselihi. "
+                            },
+                            {
+                                "text": "Kahchu yuhchighatestyetl Jerusalem tsi: intyizon ghayahlhu tyetachatlihi kwa otyiyi oota, yinkhadesha taneghaotatich metihi tyiyi, kahchu adesklesne, kahchu haladi meindi chatehaneh, "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Ye makaoonatsut ayiwoh keoonaahch aoontye? kahchu mea nayiwa tidi kakaoodzutti keoonaahchi tidi ooli? "
+                            },
+                            {
+                                "text": "Kahchu Jesus ateyatetla toowehchu yehti, Suni chu ehlawotatye taoontya naghosyeassi, kahchu satatahti ate, naghatatuhsi ye kakaoodzutti kooh akehe kewohahch aoontye tidi ooli. "
+                            },
+                            {
+                                "text": "Matukeghihliti John yataihehi otsi la tatyesut oontye, tane tsi koole? kootatinti. "
+                            },
+                            {
+                                "text": "Kahchu inchiooghatatyech, toowe ghati ihe, Koohtitye ate Yataihchi otsi; kooh tootyezi, Yehoo gha tawah tahtyaoontye? "
+                            },
+                            {
+                                "text": "Ahwole koohtitye ate, Tane tsi; tane eghanejit: ayiwo aitye tane koohkiyehti John, yaghi kwa hli tanetaghatahchne ali. "
+                            },
+                            {
+                                "text": "Kahchu ooghatyesta kahehu Jesus tsi toowe kiyehti, Atu koowoti. Kahchu Jesus otatihch toowehchu yehti Suni chu atu naghatatuhsesi naghakaoodzutti ayi ihe keoonaahch tidi ooli.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "KWA tyi yaotatich yiheaghasule. Ehlaiti yaghi tane oonehye chiche chok chine ochunehyehti, kahchu anetye ootaisuggi oola lon, kahchu hayaghinkyetlon ayeti chiche tu taaoohklitigha, kahchu nayaghintsih khaghatai kwa, kahchu yaniyiooh oonehyene tane, kwa tontyetsidesha. "
+                            },
+                            {
+                                "text": "Kootoo koonioonizutooh otsiyateha ayi ehlaiti yakeotiche yinkhadoya natlone tezoo, yayual assilon chiche natlone tezoo chiche chine oochunihyehi tsi. "
+                            },
+                            {
+                                "text": "Kahchu nighatintyi, kahchu kikutatooz, kahchu tahzoh achukihteha. "
+                            },
+                            {
+                                "text": "Kahchu yachideha achune woaine; kahchu ine tsihadehyitl, kahchu tsinakoozehai yetsi ihe, kahchu achukideha maooya ooli. "
+                            },
+                            {
+                                "text": "Kahchu achune otsideha; kahchu ayi hazehai; kahchu achune natlone, tahkine chu kikutatooz, tahkine chu kizehai. "
+                            },
+                            {
+                                "text": "Kwaka ehlaiti machue ayehi, o-ochi mandayadetlahoo, ayi chu haistlachi yachiyadeha toowe ehti ihe, Kiya indi nootghahassi sechue. "
+                            },
+                            {
+                                "text": "Ahwole ayine oonehyene tane toowe hlaghatati, Tunela katsila kakaoozutassi; kwa hoote zaoogheli, kwa naghani kakao-odzutassi. "
+                            },
+                            {
+                                "text": "Kahchu nighatintyi, kahchu kizehai kahchu khakitihtyi chiche chine ochenihyehti iite otsi. "
+                            },
+                            {
+                                "text": "Yea aaoti ayi kakaoodzutti chiche chine ihe ochanahyehi? yuhchinatlone chahtawoleissi oonehycne tezoo, kahchu achune chiche chine ihe ochanahyehi ghaooalassi. "
+                            },
+                            {
+                                "text": "Koo kahchu atu makeh ootaghatechila tidi aduskles; ayi tsye kiyenali? ayine nito kwa aootline ayi hatse oohniya sookewostidi: "
+                            },
+                            {
+                                "text": "Tila Aghakaoodzutti makyeoahchi, kahchu ohtye kawochulih naghataitgha? "
+                            },
+                            {
+                                "text": "Kooh chu oonkhaghanatgha kiyuhchutigha, ahwole tane eghauejitlon: aghatane atawo-otihi ihe ako-oyehti ihe ayi meaghasoochali: kahchu kiyechutestyetllon, taichi ghanintyetl yu. "
+                            },
+                            {
+                                "text": "Kahchu kichiteha tahkine Phariseene chu Herodiana chu, kiyukluhchi gha yazake. "
+                            },
+                            {
+                                "text": "Kootoo nighanintyetl tsi, toowe kiyehti, Taneghaotatich atawotihi hlodinti, atu chu ooline inaoohoontyiassi: atu chu kyinditaniha tane oontya kehe, ahwole taneghaodintich Nagha Tgha oontya kehe matlontideh: Tsiwohzon la machulelu mehtikechilehe sooniya Caesar, intooe ate chu? "
+                            },
+                            {
+                                "text": "Kaooyeli la, atu kaooyeli koole? ahwole atai atawonatioo meaneahe, toowe yehti, Yehoo gha sakaootahun aoontye? sananahah sooniya satsoone, wosyekhai. "
+                            },
+                            {
+                                "text": "Kwa nakiyiooh. Kahchu toowe yehti, Mea achintye sikooh kahchu takehnichatinklesi mindizi? Kahchu toowe kiyehti, Caesar tsi. "
+                            },
+                            {
+                                "text": "Kahchu Jesus ateyatetla toowehchu yehti, Caesar ghanahah ayi ooli ayahi Caesar, Nagha Tgha chu ooli ayahi Nagha Tgha. Kwa Kiyaoolih. "
+                            },
+                            {
+                                "text": "Kootoo kooyinkhachatestyetl ine Sadducee yaghine nachaghintai oontooe ghatine; kahchu taoontya kiyehti toowe ghati ihe, "
+                            },
+                            {
+                                "text": "Taneghaotatyehchi, Moses aghaadusklesiih, Ooline mekye tehtsut, ate, matsiyue chu yechodyesha ate, kahchu tsito atu yechodyesha ate, mekye matsiyue niyatahtyeloo, yaskyege yayanuhi tsito mekye. "
+                            },
+                            {
+                                "text": "Oowhilihi taiuchine hlyehligi ghili: kwa ayi hatse tsege nitintyi, tehtsutooh atu tsito yechodyesha. "
+                            },
+                            {
+                                "text": "Kooh chu haladi tachi tsege ninayatihtyi kahchu tehtsut atai chu atu tsito yechodyesha: haladi tachi ayi chu kwaka hlyeih. "
+                            },
+                            {
+                                "text": "Kahchu taiuchi aline aghahiii, kahchu atu tsito yechoghatatyel: hli haistlahchi ayi tsege tehtsutii. "
+                            },
+                            {
+                                "text": "Hooghaghintyetl tsi, tsitike ghaiskye tsi ooli ate mea soo ate yakahoota tyiooh? taiuchi ghili aghanetye kookahsatalon. "
+                            },
+                            {
+                                "text": "Kahchu Jesus ateyatetla toowehchu yehti, Atu kha yaghayala, atu itawahtihi ihe, aduskles tyiyi, Tikeaootli koole manatsutti? "
+                            },
+                            {
+                                "text": "Kootoo tsitike ghaiskye ate koozetse otsi atu inkah tueakoochila koole atu chu hlakoochilalon; ahwole keotihchi tyiyi yeghinhtyelon yataihchi ati. "
+                            },
+                            {
+                                "text": "Ahwole tehtsut ine, tsitike nawokyesi: atu makyeh ootaghatyechtah ooli la Moses adusklese, tyeha yehti kat tsaghehtonti Tikeaootli yechiintechii, Suni Tikeaootli asli aoontye Abraham tgha asli, kahchu Tikeaootli asli aoontye Isaac tgha asli, kahchu Tikeaootli asli aoontye Jacob tgha asli? "
+                            },
+                            {
+                                "text": "Oochu natooene atu yeta odeha ahwole yaghitane gha: ayi ihe o-ochi kayaghatsut. "
+                            },
+                            {
+                                "text": "Kahchu ehlaiti adesklesi yahchidyesha, kahchu atitsuklon ihe inchiotatyech otye, kahchu atawotihoo tsiwohzon ateyatetlalon, taoontya yehtilon, Tyeya ootaihchi hatse tsiwotsatyehli? "
+                            },
+                            {
+                                "text": "Kahchu Jesus toowe hakehe ateyatetla, Hatseto tsiwotsatyehli anetye asikooh titih Nea oozintso, Israel; Naghaghatai Nagha Tgha atane zon Naghaghatai aoontye: "
+                            },
+                            {
+                                "text": "Kahchu maoontye Nagha Tgha Naghaghatai atghe nedzye ihe, kahchu atghe matsinde ihe, kahchu atghe nindi ihe, kahchu atghe nanatsutti ihe: ayila hatsetoh tsiwotsatyehli. "
+                            },
+                            {
+                                "text": "Oo ayi onkye kwa hlye oontye, toowe hakehe, Mataghoonti nehtanoone natsun matintya kehe. Oontooe tsiwotsatyehli ootaihchi miindichatoohai tizon. "
+                            },
+                            {
+                                "text": "Kahchu adesklesne toowe yehti. Kwa hli Taneghaotatyechi, kooh tintiih hlonchati: ehlaiti zon Tikeaootli ali; atu achune atune zon: "
+                            },
+                            {
+                                "text": "Kahchu machutye atghe khadzye ihe, kahchu atghe atsatitsuk ihe, kahchu atghe khatsinde ihe, kahchu atghe mehnatsutsut ihe, kahchu yuatutih yetanoone atwati yakehe, ootaihchi kyeindi ooteha ayi aghoo atghe tsichatihuli chu inghade keochaachi chu. "
+                            },
+                            {
+                                "text": "Jesus wa-inchi ooyu tahwohzon, toowe yehti, Atu tontye tsi anatih Nagha Tgha nataghe otsi. Atu ayi keh taoontya atu nichatitah ooli. "
+                            },
+                            {
+                                "text": "Kahchu Jesus otyesta toowehchu yehti taneghaotatyechoo sahtgha tyetachatlihi kwa tyiyi oota, Yehoo gha adesklesne kooghatya oontye Christ David machue? "
+                            },
+                            {
+                                "text": "Ayi ihe David atane koochati kooehtii Atsinde Oochu ihe, Kakaoodzutti kooyehtii Sakaoodzutti, Nuni sinta noohtichintye atehzonih aiseakooyasle ate tsintanine. "
+                            },
+                            {
+                                "text": "David atai hoochati nai Kakaoonadzutti yehti; tyechi otsi gha machue yilontye? Tyetaisanaine kyehanelilon oochu kititsalon. "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti machiootehe, Matsagha ghahta adesklesne, tane ayine kwaghintyene koo kestue yaintyesne, kahchu kwaghintye kyila chihchiche inchiatahachulihti. "
+                            },
+                            {
+                                "text": "Kahchu asta otyihti tyetachatlihi kwa, kahchu o-ochi nataghisatooh asta kwehluchayihti: "
+                            },
+                            {
+                                "text": "Chahte akiyila ya kwa waatyihi, kahchu tane ghanaahooh oontyes oohatatyech: ayi ti otsinighatooalassi ohtye otaihchi ketselihoo keochaahchi. "
+                            },
+                            {
+                                "text": "Jesus chu sata sooniya ninchatilesti oghade, kahchu tane ya-ih iotsi sooniya otsiyatelyihoo kweotsi nichatilihi sooniya; natlone chu tatintlone natlon kwechihatehul. "
+                            },
+                            {
+                                "text": "Yuhchidesha ehlaiti tsege tiesunni waatyihi ali, kahchu kwehchiyatehyitl o-ochi yaintsutli onketya sooniya satsoone toolya ehlaiti sooniya satsoone enetya eyontyi. "
+                            },
+                            {
+                                "text": "Kahchu yaotatichne tyechi yehti, toowehchu yehti, Kwa hli anaghaisii, tai tiesunnioo waatyihi naghataihchi ohtye kwechiyatestla, anahtye naghai ooia kwechitala sooniya nichatilesti: "
+                            },
+                            {
+                                "text": "Ayi ihe aghanetye kwehchighadestla kootatintlon otsi; ahwole atai yindatli otsi kwehchiyatehyitl anetye ayehesi, anetye ooli yighataisi.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "HOONTATAHOOH tyetachatlihi kwa otyiyi tih otsi, ehlaiti yaotatichi toowe yehti, Taneghaotintichi, nea ti tsye naih atotye, kahchu nito kwa atotye chode ooli! "
+                            },
+                            {
+                                "text": "Kahchu Jesus otyesta, toowehchu yehti, Onaila tidih kwa tyiyi tonli? atu ehlaiti woo meachu chatuyesi tsye tasaoo nachatihulassi. "
+                            },
+                            {
+                                "text": "Kahchu sata klataihchi khis ke Olives ooghade tyetachatlihi kwa tyiyi, Peter chu James chu John chu Andrew chu taoontya kiyehtilon sahti aghati zahtgha, "
+                            },
+                            {
+                                "text": "Aghatatinti, taisatsi ooli khoonioozit aoontye? kahchu ate taootyaoontye kootoo anetye ooli ooghade nininkye ate? "
+                            },
+                            {
+                                "text": "Kwa Jesus atoyatetla toowehchu tyi ehti, Tyeke atuline naghanooah: "
+                            },
+                            {
+                                "text": "Natlone chu yuhchighatutyelassi sindizi kehchi, toowe ghatuti ihe, Suni Christ; natlone chu ghanooahassi. "
+                            },
+                            {
+                                "text": "Kahchu atahtsuk ate natsapahi kahchu natsapahi eoyu ate, atu nagha khazatawahtyel: ayi etye ooli kehchi nio-otsitassi; ahwole halohchi atuka koohnao-ozitassi. "
+                            },
+                            {
+                                "text": "Ayi ihe ehlaitidi tane ghataghitodeh kiyinkha ghatapah achu tanane, kahchu tane tike inchi niihach: kahchu eonetye tsi tike ootooloone tsi, kahchu wo-olyesi to khasihai tsookachatayahi chu: ayila tatyeski ochati kyeatsunatsitti. "
+                            },
+                            {
+                                "text": "Awole achukhahahta naghai: naghaghatoochitassi tsiwotsatyelchi; kahchu tyetachatlihi kwa oota naghatghatsutyesassi: kahchu nanaghachulelassi haladi tsiwotyihi metihi o-ochi metihi tyiyi chu suni ihe, ayi ihe kooyeh ooghahtichoo. "
+                            },
+                            {
+                                "text": "Kahchu otich oochu ihe hatse kooyehoochutichassi tike okehe atghe tanane tsi. "
+                            },
+                            {
+                                "text": "Ahwole otsinaghachataistle ate, kahchu naghachataitsut ate, atu ahunataihchi kindiwahtsit atawahtyakehe sootasun koole ataghahkyakehe: ahwole ooli si naghachualassi ayi sakehchiaghali ayi otahtich: atu naghani otahtyech ahwole Atsinde Oochu. "
+                            },
+                            {
+                                "text": "Mekye taza ihe yatutsitassi azeche tsi mekye, kahchu atgha khachue; kahchu tsihone koonahchine niwotyelassi, kahchu nakiyuteissi tsazuheli gha. "
+                            },
+                            {
+                                "text": "Kahchu naghai tane naghachatuh Ikeassi sindizi ihe: ahwole ayi ayuhi haistlahchi otsi, ayi nachaoohtaisi. "
+                            },
+                            {
+                                "text": "Ahwole wa-itah ayi metselihi chahtehnitsutsiti tsi kamaotatyehchi Daniel atanataihchi atawatihi nachaghintsitti ayiti o-otooassi lon, (ayi aghasule inkai ootootsukki,) inkai ayine Judaea aline khis tsi ghatoowhezi: "
+                            },
+                            {
+                                "text": "Kahchu ayi tahtaghatsi nito kwa atu noocha nito kwa otsi, koole atu ayite kwewoya oolitah nitooaluh makwa otsi: "
+                            },
+                            {
+                                "text": "Kahchu yaghi achunihyehti oota ati atu tahnatoocha yehatyetakhati niyatooallu. "
+                            },
+                            {
+                                "text": "Ahwole atu oochu awohtyeissi ayine koozita tsito tehtsine, yaghine chu tsito yehtochne ayi dzinee ! "
+                            },
+                            {
+                                "text": "Kahchu aghasuahlih nahuthataklihi atu yaske ooli. "
+                            },
+                            {
+                                "text": "Ayi ihe dzinee oolezi tsookachatayahi, ayi etye natooehi zon ooliih toh otsi hatseto tike ooli toh otsi Nagha Tgha ayilaii, kwa hlilon too otsi, atu koole o-otoowesi. "
+                            },
+                            {
+                                "text": "Kahchu atu Tikeaootli dzinee nakhasse oolai ate, atuline ootaizilon: ahwole matghachihchine tsi, yatgha-ihchilon, natya oolalon ayi dzenee. "
+                            },
+                            {
+                                "text": "Kahchu ooline toowe naghahtye ate, Nea, taila Christ; koole nea, yaghitih atih; atu a Kootaghahti: "
+                            },
+                            {
+                                "text": "Ayi ihe atu tyeswe Christ kahchu atu tyeswe ghaghatane niwootyelassi, kooh chu kiyuesi ehtole kahchu kawochuli, aghanooahi gha, awowootli iyu aoontye ate, matghachihchine. "
+                            },
+                            {
+                                "text": "Hoontyeoo khama-inditahsit naghani: nea, naghatasiih atghazi ooli ootagha. "
+                            },
+                            {
+                                "text": "Ahwole ayi dzinee, kaohtzut ate ayila tsookaehatayahi, sa ihewohelassi hatleke iza chu atu kaooalassi maootaghe, "
+                            },
+                            {
+                                "text": "Kahchu yataihchi sun ooli nakyelassi, menatsutsutti yataihchi ta ooli yatooloonassi. "
+                            },
+                            {
+                                "text": "Kwa ayiti kiyueissi teze Chue yuhchidesha khoos tgha o-ochi mehnatsutsutti chu tsatinchai chu. "
+                            },
+                            {
+                                "text": "Kwa iiti otsiyateha yakeotihehi tyiyi, kwa chu nachaghanoolelassi yatghachihchine tyeotatyechi otsi ninchi, o-ochi tike wolonhchi otsi kwa hlilon o-ochi yataihchi lonhchi. "
+                            },
+                            {
+                                "text": "Kwa hoote ookaatawahti mihe achati chiche chine tsi; kootoo kwaka matatse natsutletonh, kahchu ato nehyehta, atawahtihoo hwaza atoleh ooli: "
+                            },
+                            {
+                                "text": "Kooh otye naghani chu, wa-ichi tidi ooli koohnininkye ate, atawahti kwa hwa ooli, tusklah koole. "
+                            },
+                            {
+                                "text": "Kwa hli anaghaisii, taine yahlaniyune tanane atu koolonh oolesi, aise atghe ooli tidi achahi. "
+                            },
+                            {
+                                "text": "Yataihchi chu tike chu o-otooesi; ahwole sezake atu woloh oolesi. "
+                            },
+                            {
+                                "text": "Ahwole ayi dzinee kahchu ayi sakehchiahali atuline atawoti, ama, atu keotihchne tyiyi yatehchi atine aghoone khachue aghoo, khatgha zon. "
+                            },
+                            {
+                                "text": "Tyeke naghai, ootanahi kahchu aghasuahli: ayi ihe atu atawahti kooh nawizut ate. "
+                            },
+                            {
+                                "text": "Tezoo Chue ali ihe tezoo yetye tontyetsi tatyeh ihe, tanito kwa kyechotyesha, kahchu yatsiwosta yakeotichne, kahchu anetye tezoo keotihch akehe, kahchu ayehtii tusklah khaghatai ootanoo gha. "
+                            },
+                            {
+                                "text": "Ayi ihe ootanahi: atu atawahtihi aoontye kootoo nito kwa khaghatai naoochati, kahkachi koole, hatleke tatichi koole, tihchok otyesta zahtgha koole, hatlindo koole: "
+                            },
+                            {
+                                "text": "Intyizon nooja ate, atu nahoohtyeloo satyechu. "
+                            },
+                            {
+                                "text": "Kahchu ayi anaghaisii anetye kooyesi, Oonahi.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "Onkyeti dzinee oolesta ooli kwehlachayihi passover achati, kahchu otles atu chehyutli: kahchu taneghaotatyechi tyiyine adusklesne chu oonkhaghanatgha oolakehe naoonai nighatuhtyeli gha, kahchu kizuhelyu. "
+                            },
+                            {
+                                "text": "Ahwole toowe ghati, Atu kwehlachayihi dzinee eli, atu tane inchiniootyelu. "
+                            },
+                            {
+                                "text": "Kahchu ali Bethany tih ma kwa oota Simon chusache ayahi, intyizon sata atsitsoo yuhchidesha tsege ayahi khluk tsye khaisis spikenard otsi o-ochi matahi natlon; kwa yataghataghiooh tsye khaisis yitii, kahchu yatsi kachi nayadinklit. "
+                            },
+                            {
+                                "text": "Kahchu tahkine atu keghaneli kooyindi ihe, kahchu toowe ghati, Yehoo gha tidi ghatsatyestka tidi khluk? "
+                            },
+                            {
+                                "text": "Ayi ihe ataghachulekhai ootaihchi tghakooh keoneti ketyi sooniya satsoone ihe, kahchu tyetaisanaini ghachulelakhai Kwa atu tyeswa akiyehti. "
+                            },
+                            {
+                                "text": "Kahchu Jesus toowe yehti, Atu machuwahti; yehoo gha machisootahtyihch? ootaihchi oochu saatyiinh. "
+                            },
+                            {
+                                "text": "Ayi ihe inkaa eahline tyita-isanaini, kahchueoonetye akootahti o-ochi akooyaghaklehesi: ahwole suni atu inkaa naghaasli. "
+                            },
+                            {
+                                "text": "Koo hatiih machitelonh otsi: ootagha yuhchidesha yuhthlukke gha oochu nisachutyel gha. "
+                            },
+                            {
+                                "text": "Kwa hli anaghaisii, ooli tsi otsi tidi otich oochu moohwochatih ate tike okehe, tidi chu atii moohwochutyehesi menachutihi gha. "
+                            },
+                            {
+                                "text": "Kwa Judas Iscariot, ehlaiti keneti onketi matgha ihe, yinkhadesha taneghaotatyech tyiyi metihe, ooli oochadehyitli kyehodewoosh, "
+                            },
+                            {
+                                "text": "Oohaditsuk chi, ohtye kyehanelilon, kahchu ootagha tsi akiyehtilon sooniya yaooleli. Oonkhanatghalon tyehakehe sookah nio-otsitigha chahte autigha. "
+                            },
+                            {
+                                "text": "Kahchu hatseto dzinee otles atu chihyutli, kwa ooghazehai passover, yaotatichne toowe yehti, Tyecha koodinti nataghasootaoozani ate oonsitsi passover? "
+                            },
+                            {
+                                "text": "Kwa onkye tane yaotatichne yitai tyeha, toowehchu yehti, otsitahtyel nitc kwa otyiyi tsi, kwa matiti tagahazasi ehlaiti teze yaalu ehlaiti mehtukachatayehi taismanooh tu ihe: makehtahaz. "
+                            },
+                            {
+                                "text": "Kahchu kwiyesitti, toowe ahti nito kwa kakaoodzutti, Wondi achune kwa ayiti o-ositsti passover mawotastihchne chu? "
+                            },
+                            {
+                                "text": "Kahchu wahih naghotyesi ooncha tyinta ooli chelohchi soowachisunooh: Naghani gha iehti soowatahsun. "
+                            },
+                            {
+                                "text": "Kahchu yaotatichne yitaighatestyetl yuhchi chu ghatatyetl nito kwa otyiyi tah, kahchu woghiooh akooyehtiii: kahchu yatagha sooghihsun passover. "
+                            },
+                            {
+                                "text": "Kahchu kahkachi yuhchinooja keneti onketi matgha chu. "
+                            },
+                            {
+                                "text": "Ghadehtsi zahtgha kahchu eghinta, Jesus toowe ehti, Kwa hli anaghaisii, ehlaiti naghai chodeh sakaehtane chahte asooti. "
+                            },
+                            {
+                                "text": "Kwa tyi atu keghaneli, toowe chu tyi ghati ehlaityekooh, Suni la? kahchu hligi toowe ehti, Suni la? "
+                            },
+                            {
+                                "text": "Kwa ateyatetla toowehchu yehti, Ehlaiti kenetye onketi matgha ihe, yaghi tila ihe setyi tsa ihkye. "
+                            },
+                            {
+                                "text": "Tane Chue otsidesha, takehnichatinkles akehe otye: ahwole atu oochu oontye yaghi teze tane Chue mihe atahachahi ! otaihchi o-otaizilon yaghi teze ihe atu niniya tah ooli ate. "
+                            },
+                            {
+                                "text": "Kahchu aghatsitsoo zahtgha, Jesus otles tyes nidiooh, kahchu merci ehti, kahchu tahke yataghiyits, kahchu yayiooh, toowehchu yehti, Nitahah, mehtah: tila sazi alonte. "
+                            },
+                            {
+                                "text": "Kahchu nidiooh mehtusato, kwa kayioo merci, yayiooh: kwa aghanetye ayite otsi tughatolon. "
+                            },
+                            {
+                                "text": "Ahwole toowe yehtiii, Tila sa tulle alontye aduskles koonde ihe, oontlo chi otsi tyechihkliti. "
+                            },
+                            {
+                                "text": "Kwa hli anaghaisii, atu otaihchi wostoissi machiche chiche tu chine tsi, kwa hlilon yaghi dzinee kwa kootyinusto Nagha Tgha nataghe. "
+                            },
+                            {
+                                "text": "Ehlaiti hyin eghachinooh khis Olives tsighatestyetl. "
+                            },
+                            {
+                                "text": "Kahchu Jesus toowe yehti, Anahtye naghai atu oochu inditaghaaisi suni ihe too hatleke: takenichatinkles akehe, Ooshalasi aspai ghaghatai haslai ite eonetye tsi natihassi aspai. "
+                            },
+                            {
+                                "text": "Ahwole tsitike netai ate, naghaghatuhshezi Galilee tsi. "
+                            },
+                            {
+                                "text": "Ahwole Peter toowe ehti, Inkai ahwole aghanetye atu keyaneli ate, hoontye koole suni intue. "
+                            },
+                            {
+                                "text": "Kahchu Jesus toowe ehti, Kwa hli anesi, tidi dzinee, tidi hatleke te, atu ka onkye otyesta tyeh tihchok, tghakooh oohchit soota- ghoontyesi. "
+                            },
+                            {
+                                "text": "Ahwole otaihchi otatich hloduhsi kootieh, Ahwole nakah tanesut ate ooh, atu ihlawotatehoo oohchit noodustyeisi. Kwakooye otye aghatane chu ghatiih. "
+                            },
+                            {
+                                "text": "Kwa koohnaghintyetl Gethsemane woyetih: kahchu toowe yehti yaotatichne, Nea aghasushlito sakyeh. "
+                            },
+                            {
+                                "text": "Kahchu yehtestyetl Peter chu James chu John chu, kahchu o-ochi inditatunne, kahchu matsun tah oonkhail acha; "
+                            },
+                            {
+                                "text": "Kahchu toowe yehti, Setsinde o-ochi atu oochu atyetatih azetse tsi: chode ahthli naghai, kachchu ootanahi. "
+                            },
+                            {
+                                "text": "Oontsutle wotaihai otsidesha-ih, kahchu tike wozohtih nwatsutooh kooyekehchi tyetaooklihassi sye makehchi nio-otsilon, ayi sakehchi ahalai yao-otsitooh. "
+                            },
+                            {
+                                "text": "Kahchu toowe ehti, Abba, Tyeih, atghazi ooli tahnootsut nuni; tidi mehtutsato saoone naniah: hoontye ooli atu suni koosti, ahwole nuni koodinti. "
+                            },
+                            {
+                                "text": "Kwa yahchidesha, nayintyi satyi, kwa toowe yehti Peter tsi, Simon sintyi la? atu ooniila ehlaiti meoochanehoo? "
+                            },
+                            {
+                                "text": "Oonahi kahchu aghasuhli, atu otsitawohazu inkaoochatauntih. Atsinde kwa hili ootagha, ahwole khazi chintyeh. "
+                            },
+                            {
+                                "text": "Kwa yitai tyesha, kahchu oghasulih, kahchu kwaka ayi zake ihe ootatich. "
+                            },
+                            {
+                                "text": "Kwa oondehsha tsi, yintyi satyi kahchu, (kootai ya-inkhai ihe,) kahchu atu ataooati atyekitooklih akehe. "
+                            },
+                            {
+                                "text": "Kwa tghakooh yuhchidesha, kahchu toowe yehti, Kwa hwe satyih, kahchu niwotahah mehnatahyihi: kwakoole, meoochanehoo koohnaooizut; nea, tezoo Chue mataghachila taghila tsi metselineh. "
+                            },
+                            {
+                                "text": "Niahtyel, yitai tawotyeli; nea, yaghi atu oochu asehti kwa hwa atih. "
+                            },
+                            {
+                                "text": "Kwa kwete, kwaka ootayehchoo, yuhchidesha Judas, ehlaiti keneti onketi matgha ihe, kahchu yihtestyetlooh tane natlone simakanis pyese chu mekachatayitli chu, taneghaotatyehchi metihi tyiyi ihe, adesklesne chu hoola atityine ihe. "
+                            },
+                            {
+                                "text": "Ooh yaghi atu oochu ayehtii yayiooiih mehyachanitsiyi, toowe ehtieh, Ootayatasihchassine wohtsiewohzyesi, ayila ayi; nintahtyeh, kahchu yitai tahtyeh tyekeh. "
+                            },
+                            {
+                                "text": "Itetyeh nooja ate, tsiwohzon yatsi anaatahlu, toowehchu ehti, Metihi, metihi; kwa yunchighachi. "
+                            },
+                            {
+                                "text": "Kwa kiyinchut, kahchu nighadintyi. "
+                            },
+                            {
+                                "text": "Ooh hligi ayiti naghatehyane tapyese natyese ghayaghachut, kahchu nayatehul yakeotihchi taneghaotatyehchi metihi tyiyi, kahchu yatsakhe tyeghihyitl. "
+                            },
+                            {
+                                "text": "Kwa Jesus ateyatetla, toowehchu yehti, Ihla unoosi khataachila pyese intyesi yu mekachatayitli yu tala nisataghahtyelu? "
+                            },
+                            {
+                                "text": "Naghaikyastaichii dzinee eonetye tyetachatlihi kwa oota taneghaodintihchoo, atu chu nisatahtyiih: ahwole aduskles tyiyi tikewokyeli. "
+                            },
+                            {
+                                "text": "Kahchu aghanetye kiyechodestyetl, kahchu taghoghadehsut. "
+                            },
+                            {
+                                "text": "Kwa ehlaiti uskye yakehtehtla, atetakhatooh chatachi takulli intyedi ati; kwa uskyegoone kiyinchut: "
+                            },
+                            {
+                                "text": "Kwa kyechodyesha ayi chatachi takulli, kahchu tghihklah intyedi. "
+                            },
+                            {
+                                "text": "Kwa Jesus otsighatehtyi o-ochi taneghaotatihchi metihi tyiyi atindi: kwa ayiti atghe yeghati taneghaotatyehchi metihi tyiyi hoolaatitine chu, adusklesne chu. "
+                            },
+                            {
+                                "text": "Kahchu Peter tontyetsi otsi yakehtehklalon, koole taneghaotatyehchi metihi kwa tsi: kwa yakasatah keotichne, na-itziluh khoon tsi. "
+                            },
+                            {
+                                "text": "Kahchu taneghaotatihchne metihi tyiyi atghe chu tsiwatilhne oohatakyet otsi ayi ihe atu oochu akiyuti Jesus kizuheli; ahwole atu oontsutli ohwiooh. "
+                            },
+                            {
+                                "text": "Ayi ihe natlone ketseli hakehe athlaghatati, ahwole atu hleoontye taghasoocha ootihe. "
+                            },
+                            {
+                                "text": "Ooh tahkine nighintyetl, kahchu atu tyeswe akiyehti, toowe ghati ihe, "
+                            },
+                            {
+                                "text": "Tasitsukiih atyakehe, Chahtehaooslyeasi tidi tyetachatlihi kwa tyiyi atsila kila ihe, kahchu taiti dzinee aoocha ate achu nao-osiasi atu kila ihe. "
+                            },
+                            {
+                                "text": "Ahwole aghatane chu koosoochawotihi atu hleoontye. "
+                            },
+                            {
+                                "text": "Kwa o-ochi taneghaotatyechi metihi tyiyi ookaze nazut, Jesus tsi taoontya yehti toowe ehti ihe, Atu atyetunatla la? ye ihea ayi chahte anaghatya oontye? "
+                            },
+                            {
+                                "text": "Ahwole atu wotih, atula kehe chu atih. Kahchu o-ochi taneghaotayehchi metihi tyiyi taoontya yehti, kahchu toowe yehti, Nuni la ayi Christ, ma, Chue Moohchuootaya? "
+                            },
+                            {
+                                "text": "Kwa Jesus toowe ehti, Suni ayi: kahchu wahyesi tezoo Chue satah noohtichintye mehnatsutsutti, kahchu yahchityesha khoos yataihchi. "
+                            },
+                            {
+                                "text": "Kahchu taneghaotatyehchi metihi tyiyi tanatunne yaghinchil, kahchu toowe ehti, Ye ootaihchi a soochawochatihi khasootiti aoontye? "
+                            },
+                            {
+                                "text": "Ootahtsukiih mehe atachochihliti: naghani ta kootahtya? Kwa aghanetye kooye hlaghatati tsazuheli gha. "
+                            },
+                            {
+                                "text": "Kwa tahkine tyekookeghizek, kahchu yani aghataghighat, kahchu nakiteghul, kahchu toowe kiyehti ihe, atanataihchi woka atawonati: Kwa keotihchne nakiteghul taghila tyiyi ihe. "
+                            },
+                            {
+                                "text": "Kwa Peter yiyue nito kwa otyiyi ti ati, yuniya ehlaiti taneghaotatyehchi metihi tyiyi yawoai tsege: "
+                            },
+                            {
+                                "text": "Kwa ya-i tsi Peter naitziluh, yakaitghah, toowehchu ehti, Kahchu nuni chu mehtintyetliih Jesus Nazareth otsi tatyezutti. "
+                            },
+                            {
+                                "text": "Ahwole atu a kooti, toowe ehti ihe, Atu atawosti, kahchu atu atasuk atintya kehe. Kwa hadesha tyinta weswatih otsi; kwa tihchok tayidze otyesta. "
+                            },
+                            {
+                                "text": "Kwa keotihche tsege kahchu ya-ih, kahchu toowe tyiyehti ayine ieti nehyane, Taila ehlaiti ayine tsi. "
+                            },
+                            {
+                                "text": "Kwa kahchu atu koo ooli ehtilon. Kahchu kluhtai ayine ayite nazati, toowehchu ghati Peter, Nuni nooklya ehlaiti aghatane tsi, ayi ihe Galilaean nali, kahchu kooh nakasse atih. "
+                            },
+                            {
+                                "text": "Ahwole ketseliooh wotyihi zon ohtye ootatyehch, toowe akehe, Atu atesti tai teze mamawotahtyehchi. "
+                            },
+                            {
+                                "text": "Kwa onkye tihchok tayidze otyesta. Kwa Peter kyechetehti yaghi sa Jesus ayehtiii, Atu ka ootihoo tihchok tayidze onkye tghakooh oochit sootahoontyezi. Kwa hlilon ayiti indi ootinta, nachaihchahli.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "Kwa kwete hatlindo aooclia taneghaotatyehchi metihi tyiyino aglianctye ehlakehe tsiwohzon tsiwowatilh hoolya atitine chu adeskilesne chu hlito aonetyo gha tsiwoghatsihi ihe ayi chu, kwa Jesus tahkiyagheskluli, kahchu achukcdehtyi, kwa kikalmihtyj, Pilate. "
+                            },
+                            {
+                                "text": "Kahchu Pilato taoontya yehti, Nunila o-ochi koometihi tyiyi nalila Jewne gha? Kahchu ateyatetla toowohcliu yehti, Kooh tintya oontye. "
+                            },
+                            {
+                                "text": "Kahchu taneghaotatyehchi metihi tyiyine chahte akiyehti ooU nation ihe: ahwole atulakehe atyeta-i. "
+                            },
+                            {
+                                "text": "Kwa Pilate kahchu taoontya yehti, toowe ehtie, Atu lakehe atyetanatla la? nea taitya ooli ihe chahte anaghahti. "
+                            },
+                            {
+                                "text": "Ahwole Jesus zon atu la kehe aye ih kwaka; kwa Pilate kawoolih, "
+                            },
+                            {
+                                "text": "Ooh ayi kwelachayihi ehlaiti yezookeh ninkho kvyechehtyesne, ooli assine nioonunisit assine. "
+                            },
+                            {
+                                "text": "Ayiti hligi aliih Barabbas ooyeih, ihkahtah chaghcsklu ayi yekatichii kwa akiyila indiootaunne, kootoo tane zehai ihe indiootatunne ayiti. "
+                            },
+                            {
+                                "text": "Kwa natlone ohtye oghatyesta tyi yatsi niooghanunisit kooh hakiyulihi gha kooli zon hakooyilai ihe. "
+                            },
+                            {
+                                "text": "Ahwole Pilate ateyatetla, toowc ehti ihe, Kooh kootahti la naghachitulisitisi Jewne o-ochi koometihi tyiyi? "
+                            },
+                            {
+                                "text": "Atawahtihi ihe taneghaotatyehchi metihi tyiyine yatagliintsutti ihe mihe incho-otsa-i. "
+                            },
+                            {
+                                "text": "Ahwole taneghaotatyehchi metihi tyiyine kichinagbayyh tanene, otaihai koochitootsittih Barabbas. "
+                            },
+                            {
+                                "text": "Kooh kahehu Pilate ateyatetla toowehchu yehti, Takootahtya oslihasi kooh yachi o-ochi koometihi tyiyi Jewnu woyi? "
+                            },
+                            {
+                                "text": "Kahchu toowe hakehe oghatesta, Klaniaitih ninihtyeh. "
+                            },
+                            {
+                                "text": "Kahchu Pilate toowe ehti, Ye tahtye ketselihoo atyuntye? Kahchu ootailichi o-ochi oghatesta, Klaniaitih ninihtyeh. "
+                            },
+                            {
+                                "text": "Kwa Pilate tane gha kasootati chatupisha gha, yakahninooh Barabbas assi, kahchu Jesus taghinchut, yakhataghitoos, klaniai nichuhtyelu, "
+                            },
+                            {
+                                "text": "Kwa simakanisne otsighatelityi tsiwatyehli kwa, Praetorium wotsatiti; kwa tyechi kiyehti ihlakehe atghe simakanisne. "
+                            },
+                            {
+                                "text": "Kwa natunne taghaghintyi aghapai tatulli ihe, kahchu kiyesklu o-ochi metihi tyiyi chahte hoos chok chine ihe, kwa ita tsi gha ghiooh, "
+                            },
+                            {
+                                "text": "Kahchu tyi yila ooghatthoon toowe, Yea mehsuchanetyi, o-ochi kookaoonazut Jewne. "
+                            },
+                            {
+                                "text": "Kahchu nakidehul yetsi chokhaiye chok ihe, kahchu kikighizek, kwa yatsitaghatsunne ootooghanehzil yatsi nachusghataklihl "
+                            },
+                            {
+                                "text": "Kahchu kiyachatyetl atghe tatulli nighadinchus, kwa yanatunne taghintyetl, kahchu ghooghatehtyi klaniai tih. "
+                            },
+                            {
+                                "text": "Kwa kitahnaghutsut ehlaiti Simon Cyrenian ali, ayi kwo noojai, tane natihti otsi Jiadesha, kootgha Alexander chu Rufus chu tahchiyatyilyu klaniai. "
+                            },
+                            {
+                                "text": "Kwa nakiyintyi Golgotha tsi, ayi tsati, Atsitsunne ooli te. "
+                            },
+                            {
+                                "text": "Kwa kiyayiooh tyewootoo chiche chok tu mathuchunihklito myrrh: ahwole atu niyadiooh. "
+                            },
+                            {
+                                "text": "Kwa klaniai nikiyinti tsi yanatunne atatghahaistla kikaootehunni ihe, ye anetye teze nitioolola. "
+                            },
+                            {
+                                "text": "Kahchu oolitah tghakooh mehooachanehoo awatazoo dzinee ooli klaniadi nikiyinti tsi. "
+                            },
+                            {
+                                "text": "Kwa achatyesklesi ayiti otsi chahteachatei takehnichanikuchiih ookeh. O-OCHI KOO METIHI TYIYI JEWNE. "
+                            },
+                            {
+                                "text": "Kahchu onkyetine chu klaniadi nighanihtye unoosine; ehlaiti noohtechintye, ooh hligi chu oosklaghazihtye. "
+                            },
+                            {
+                                "text": "Achudesklessi tyiyi tikenikyih, kooh woti, Kahcliu metseline kah kachanehtyeh. "
+                            },
+                            {
+                                "text": "Ooh ayine kweghatilhne ayiti oontlochi kiye sootatyihch, tagliatsi ghaghado, toowehchu ghati ihe, Gha, nuni chahta wonatla tyctachatlihi kwa tyiyi, kahchu aoonatla taiti dzinee, "
+                            },
+                            {
+                                "text": "Aghatinta, kahchu yulichinootinta klauiai tsi. "
+                            },
+                            {
+                                "text": "Aghatane chu o-ochi taneghaotatyech metihi tyiyine ontlonchi akiyehti ihe toowe hlaghatati ihe adesklesne chu, Nayaghehta achune chu; atai koochati atu aghatatah. "
+                            },
+                            {
+                                "text": "Oonka Christ o-ochi koometihi tyiyi Israel kwa hoote klaniai tsi noodoojai, wowoti khai kahchu a kootahti. Oo ayi yakah klaniadi yakah atii yataUhlon. "
+                            },
+                            {
+                                "text": "Kwa inchitakooh klodesha sa kehchi ehalai koonaooizutooh, hatleke aoochaii tike okehe kwa hHlon kalaketi klodesha sa kehchi ehaiai. "
+                            },
+                            {
+                                "text": "Kwa kalaketye sa kehchi ahalai klodesha, Jesus otyesta takaseneodi, toowe ehti ihe, Eloi, eloi, lama sabachthani? ayi tsati ihe Saghintai, Saghintai, yehoo gha sechanila aoontye. "
+                            },
+                            {
+                                "text": "Ooh tahkine ieti nehyane, ooghatitsuk tsi, toowe ghati, Nea, Ehas kawotih. "
+                            },
+                            {
+                                "text": "Kahchu ehlaiti otsidehta, kahchu tsifo yeatatih atihih tayatohman sootakan chiche tu ihe, kahchu nayiooh klokhayetgha, kahchu yayiooh tuwoto gha, toowe ehti ihe, Atu kinditaghaha; oonka oohwoti Elias nayaghintyi kha. "
+                            },
+                            {
+                                "text": "Kahchu Jesus otyesta ohtye ati, kahchu matsinde kwa yecheli. "
+                            },
+                            {
+                                "text": "Kwa ayi hlichatinkatii tyetachatlihi kwa otyiyi intyizon tghahkyehchi wotye cheghinchil yataihchi ctis yiyue otsi. "
+                            },
+                            {
+                                "text": "Kwa kootoo ayi simakunis metihi, ooghade nazutih. wa-i kooakehe otyesta, kahchu yatsinde yechelihooh, toowe ehti, tyewotye tune teze Nagha Tgha Chue ghilelon. "
+                            },
+                            {
+                                "text": "Ayiti oohwiliiih tsegene ehu tontyctsi otsi ookhaghanehtgha: atai chu iiti atiih Mary Magdalene, Mary chu ma James ooia etanoohlihi kahchu Joses, Salome chu; "
+                            },
+                            {
+                                "text": "(Aghatane chu, Galilee atichi, kikehtyeshaii, kahchu ooli kooyaalih ine;) achune chu natlone tsegoo yuhchi kooyehkyatehch ine Jerusalem tsi. "
+                            },
+                            {
+                                "text": "Kahkachi aoocha tsi, ayi ihe intyizon dzmee tsi watsehlu ayi dzinee Manejitti dzinee tsi ooh, "
+                            },
+                            {
+                                "text": "Joseph Arimathaea otsi tazehlu, tsatincha tsiwatilh, atune chu ootakah ali Nagha Tgha nataghe, yuhchidesha, kahchu tadzye natsutih seooh Pilate kahkwiya, kahchu Jesus zi ootakyet. "
+                            },
+                            {
+                                "text": "Kwa Pilate khawooli kwa tehtsalo ate: kwa simakanis metihi tyechi yehti, tauontya yehti tontyeto ghaite chu tehtsutiih. "
+                            },
+                            {
+                                "text": "Kwaatawatih tsi simakanis metihi yatati, tazi ghiooh Joseph. "
+                            },
+                            {
+                                "text": "Kwa ataghoola tsatache oochu takulle, kahcliu nooyaghintyi, kaliclm ayi tsatache ii ihe yehtoonehtich, kahchu niyanihtyi natine kwa oota tsyekas tayaghintyi, kahchu tsye otsiyehail toosklahchi natine kwa. "
+                            },
+                            {
+                                "text": "Kwa Mary Magdalene kahchu Mary Joses ma oohwa-ih nichanihtyinti.  "
+                            }
+                        ]
+                    },
+                    {
+                        "verses": [
+                            {
+                                "text": "Kwa Menejitti Dzinee kawohtzut tsi, Mary Magdalene, kahchu Mary James ma kahchu Salome, ataghaghila yu natunetgha tsehklutti, kwa yuhchighatatyel ate yu ihe kiyuhklukooh. "
+                            },
+                            {
+                                "text": "Kwri o-ochi hatse hatlindo ooli hatse dzinee, koohnioonizuiooh natine kwa otsighatestyetl sa niiya tsi. "
+                            },
+                            {
+                                "text": "Kwa toowe hlaghatati, Mea tsye yughaii aoontye natine kwa tustla otsi? "
+                            },
+                            {
+                                "text": "Kwa koo ookahanehtghachi, oogha-ih tsye achuhchi nichunihailo: o-ochi ghinchai ihe. "
+                            },
+                            {
+                                "text": "Kwa kwegliaghintyetlooh native kwa oota, kiya-ih ehlaiti uskye noohtichintye chisinchi sata, tasata natyesooh makestue takulooh: kwa oonighanintyetl. "
+                            },
+                            {
+                                "text": "Kwa toowe yehti, Atu oonighahtyel: Minkhanatgha Jesus Nazareth otsi tatyezutti, klaniai nichanihtyiii: tsitike ghinta-ih; atu chode ali; nea nighamhtyintiii. "
+                            },
+                            {
+                                "text": "Ahwole ootahtab, yaotatichne tatahtih Peter chu naghaghadesha Galilee tsi: ayiti wahiiissi, naghatatyakehe. "
+                            },
+                            {
+                                "text": "Kwa kwete khooghatastyetl, kahelm natine kwa otsi tsmtestyetl; yaghatilonlon ihe kahchu khaooghali ihe: kahchu atuline atula kehe akiyeliti; oonighanintyetlon ihe. "
+                            },
+                            {
+                                "text": "Kootoo Jesus niiyaii kwete hatse dzine tsiwatselhu, hatse yuhniya Mary Magdalene, ayi taiuchi atsmde metselihi yazi otsi hayateha-ii. "
+                            },
+                            {
+                                "text": "Kwa yatatilon ayine yehkyatehchiine, tsukye atu yaghita zahtgha kahchu ghutsakooh "
+                            },
+                            {
+                                "text": "Ooh ahatane, ooghatitsuk tsi ghata, kahchu ya-ilon atu a kooghati. "
+                            },
+                            {
+                                "text": "Ayi keh yuhniya achu akelie ouketye agha tane Ihe, ghataihlu zahtgha, achu tike tsi otsighataihlu. "
+                            },
+                            {
+                                "text": "Kwa kitati achune: kahchu ama kiyehti ayine. "
+                            },
+                            {
+                                "text": "Atyechi yuhniya keneti ehlaiti matgha aline ghiskye eghehta ootye, kwa yachiotatyech majih oontooei kha kahchu yadzye natsutti kha atu a kiyuti ihe ayi yakehtghaii tsitike nesta. "
+                            },
+                            {
+                                "text": "Kwa toowe yehti, Otsitahtyel tike okehe matatahti obicn oociiu anetye tane. "
+                            },
+                            {
+                                "text": "Ayi a kootyeti kahchu tumakechaghinkliti nachawohtyezi; ahwole yaghi atu a kootyeti cliahta chuleesi. "
+                            },
+                            {
+                                "text": "Kahchu tidi yachanahai yakeh ootoohsitassi ayine a kootine; Sindizi ihe kehchi ghakitoolelassi atsinde metselihi; oogliatootyehchassi atsoodi koondi ihe; "
+                            },
+                            {
+                                "text": "Nootuze nighatoohtyelassi; oolita tughato ate chu azetse ahi, atu kootoohtihassi; kikatootiassi yatitihne, kwa oochu nakiyaooliteissi. "
+                            },
+                            {
+                                "text": "Kwa Naghaghatai sakyedesutooh, yatai otsi nichatihtyi, kahchu sata-ih Nagha Tgha noohtichintye. "
+                            },
+                            {
+                                "text": "Ahwole achughatestyetl, tike okehe tane chiwoghatihi ihe, Naghaghatai kahkeooghatihchoo, kahchu sa natsut oola kaootsooli chu intghaninkhi. Amen.    "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
