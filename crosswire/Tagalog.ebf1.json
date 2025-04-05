@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "Tagalog",
+        "name": "Tagalog (John & James)",
+        "language": "tl",
         "books": [
             {
                 "names": [
                     "John"
                 ],
-                "usfm_id": "John",
+                "usfm_id": "JHN",
                 "abbreviation": "John",
                 "chapters": [
                     {
@@ -2736,7 +2737,7 @@
                 "names": [
                     "James"
                 ],
-                "usfm_id": "James",
+                "usfm_id": "JAS",
                 "abbreviation": "Jas",
                 "chapters": [
                     {

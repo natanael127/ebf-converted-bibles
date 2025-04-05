@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "PotLykins",
+        "name": "1833 Potawatomi Matthew and Acts",
+        "language": "pot",
         "books": [
             {
                 "names": [
                     "Matthew"
                 ],
-                "usfm_id": "Matthew",
+                "usfm_id": "MAT",
                 "abbreviation": "Matt",
                 "chapters": [
                     {
@@ -3340,7 +3341,7 @@
                 "names": [
                     "Acts"
                 ],
-                "usfm_id": "Acts",
+                "usfm_id": "ACT",
                 "abbreviation": "Acts",
                 "chapters": [
                     {

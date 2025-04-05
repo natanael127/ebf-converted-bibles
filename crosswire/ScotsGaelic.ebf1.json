@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "ScotsGaelic",
+        "name": "Scottish Gaelic Gospel of Mark",
+        "language": "gd",
         "books": [
             {
                 "names": [
                     "Mark"
                 ],
-                "usfm_id": "Mark",
+                "usfm_id": "MRK",
                 "abbreviation": "Mark",
                 "chapters": [
                     {

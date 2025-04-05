@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "SPDSS",
+        "name": "Dead Sea Scrolls variants parallel to the Samaritan Pentateuch",
+        "language": "hbo",
         "books": [
             {
                 "names": [
                     "Exodus"
                 ],
-                "usfm_id": "Exodus",
+                "usfm_id": "EXO",
                 "abbreviation": "Exod",
                 "chapters": [
                     {
@@ -3814,7 +3815,7 @@
                 "names": [
                     "Leviticus"
                 ],
-                "usfm_id": "Leviticus",
+                "usfm_id": "LEV",
                 "abbreviation": "Lev",
                 "chapters": [
                     {
@@ -6508,7 +6509,7 @@
                 "names": [
                     "Numbers"
                 ],
-                "usfm_id": "Numbers",
+                "usfm_id": "NUM",
                 "abbreviation": "Num",
                 "chapters": [
                     {
@@ -10525,7 +10526,7 @@
                 "names": [
                     "Deuteronomy"
                 ],
-                "usfm_id": "Deuteronomy",
+                "usfm_id": "DEU",
                 "abbreviation": "Deut",
                 "chapters": [
                     {

@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "SloOjacano",
+        "name": "Oja\u010dano Sveto pismo (Ps + Gal)",
+        "language": "sl",
         "books": [
             {
                 "names": [
                     "Psalms"
                 ],
-                "usfm_id": "Psalms",
+                "usfm_id": "PSA",
                 "abbreviation": "Ps",
                 "chapters": [
                     {
@@ -7998,7 +7999,7 @@
                 "names": [
                     "Galatians"
                 ],
-                "usfm_id": "Galatians",
+                "usfm_id": "GAL",
                 "abbreviation": "Gal",
                 "chapters": [
                     {

@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "Tausug",
+        "name": "Tausug Kitab Injil",
+        "language": "tsg",
         "books": [
             {
                 "names": [
                     "Matthew"
                 ],
-                "usfm_id": "Matthew",
+                "usfm_id": "MAT",
                 "abbreviation": "Matt",
                 "chapters": [
                     {
@@ -3340,7 +3341,7 @@
                 "names": [
                     "Mark"
                 ],
-                "usfm_id": "Mark",
+                "usfm_id": "MRK",
                 "abbreviation": "Mark",
                 "chapters": [
                     {
@@ -5447,7 +5448,7 @@
                 "names": [
                     "Luke"
                 ],
-                "usfm_id": "Luke",
+                "usfm_id": "LUK",
                 "abbreviation": "Luke",
                 "chapters": [
                     {
@@ -9005,7 +9006,7 @@
                 "names": [
                     "John"
                 ],
-                "usfm_id": "John",
+                "usfm_id": "JHN",
                 "abbreviation": "John",
                 "chapters": [
                     {
@@ -11735,7 +11736,7 @@
                 "names": [
                     "Acts"
                 ],
-                "usfm_id": "Acts",
+                "usfm_id": "ACT",
                 "abbreviation": "Acts",
                 "chapters": [
                     {
@@ -14877,7 +14878,7 @@
                 "names": [
                     "Romans"
                 ],
-                "usfm_id": "Romans",
+                "usfm_id": "ROM",
                 "abbreviation": "Rom",
                 "chapters": [
                     {
@@ -16249,7 +16250,7 @@
                 "names": [
                     "I Corinthians"
                 ],
-                "usfm_id": "I Corinthians",
+                "usfm_id": "1CO",
                 "abbreviation": "1Cor",
                 "chapters": [
                     {
@@ -17633,7 +17634,7 @@
                 "names": [
                     "II Corinthians"
                 ],
-                "usfm_id": "II Corinthians",
+                "usfm_id": "2CO",
                 "abbreviation": "2Cor",
                 "chapters": [
                     {
@@ -18465,7 +18466,7 @@
                 "names": [
                     "Galatians"
                 ],
-                "usfm_id": "Galatians",
+                "usfm_id": "GAL",
                 "abbreviation": "Gal",
                 "chapters": [
                     {
@@ -18945,7 +18946,7 @@
                 "names": [
                     "Ephesians"
                 ],
-                "usfm_id": "Ephesians",
+                "usfm_id": "EPH",
                 "abbreviation": "Eph",
                 "chapters": [
                     {
@@ -19443,7 +19444,7 @@
                 "names": [
                     "Philippians"
                 ],
-                "usfm_id": "Philippians",
+                "usfm_id": "PHP",
                 "abbreviation": "Phil",
                 "chapters": [
                     {
@@ -19780,7 +19781,7 @@
                 "names": [
                     "Colossians"
                 ],
-                "usfm_id": "Colossians",
+                "usfm_id": "COL",
                 "abbreviation": "Col",
                 "chapters": [
                     {
@@ -20090,7 +20091,7 @@
                 "names": [
                     "I Thessalonians"
                 ],
-                "usfm_id": "I Thessalonians",
+                "usfm_id": "1TH",
                 "abbreviation": "1Thess",
                 "chapters": [
                     {
@@ -20386,7 +20387,7 @@
                 "names": [
                     "II Thessalonians"
                 ],
-                "usfm_id": "II Thessalonians",
+                "usfm_id": "2TH",
                 "abbreviation": "2Thess",
                 "chapters": [
                     {
@@ -20548,7 +20549,7 @@
                 "names": [
                     "I Timothy"
                 ],
-                "usfm_id": "I Timothy",
+                "usfm_id": "1TI",
                 "abbreviation": "1Tim",
                 "chapters": [
                     {
@@ -20920,7 +20921,7 @@
                 "names": [
                     "II Timothy"
                 ],
-                "usfm_id": "II Timothy",
+                "usfm_id": "2TI",
                 "abbreviation": "2Tim",
                 "chapters": [
                     {
@@ -21194,7 +21195,7 @@
                 "names": [
                     "Titus"
                 ],
-                "usfm_id": "Titus",
+                "usfm_id": "TIT",
                 "abbreviation": "Titus",
                 "chapters": [
                     {
@@ -21353,7 +21354,7 @@
                 "names": [
                     "Philemon"
                 ],
-                "usfm_id": "Philemon",
+                "usfm_id": "PHM",
                 "abbreviation": "Phlm",
                 "chapters": [
                     {
@@ -21441,7 +21442,7 @@
                 "names": [
                     "Hebrews"
                 ],
-                "usfm_id": "Hebrews",
+                "usfm_id": "HEB",
                 "abbreviation": "Heb",
                 "chapters": [
                     {
@@ -22411,7 +22412,7 @@
                 "names": [
                     "James"
                 ],
-                "usfm_id": "James",
+                "usfm_id": "JAS",
                 "abbreviation": "Jas",
                 "chapters": [
                     {
@@ -22764,7 +22765,7 @@
                 "names": [
                     "I Peter"
                 ],
-                "usfm_id": "I Peter",
+                "usfm_id": "1PE",
                 "abbreviation": "1Pet",
                 "chapters": [
                     {
@@ -23108,7 +23109,7 @@
                 "names": [
                     "II Peter"
                 ],
-                "usfm_id": "II Peter",
+                "usfm_id": "2PE",
                 "abbreviation": "2Pet",
                 "chapters": [
                     {
@@ -23312,7 +23313,7 @@
                 "names": [
                     "I John"
                 ],
-                "usfm_id": "I John",
+                "usfm_id": "1JN",
                 "abbreviation": "1John",
                 "chapters": [
                     {
@@ -23656,7 +23657,7 @@
                 "names": [
                     "II John"
                 ],
-                "usfm_id": "II John",
+                "usfm_id": "2JN",
                 "abbreviation": "2John",
                 "chapters": [
                     {
@@ -23708,7 +23709,7 @@
                 "names": [
                     "III John"
                 ],
-                "usfm_id": "III John",
+                "usfm_id": "3JN",
                 "abbreviation": "3John",
                 "chapters": [
                     {
@@ -23766,7 +23767,7 @@
                 "names": [
                     "Jude"
                 ],
-                "usfm_id": "Jude",
+                "usfm_id": "JUD",
                 "abbreviation": "Jude",
                 "chapters": [
                     {
@@ -23854,7 +23855,7 @@
                 "names": [
                     "Revelation of John"
                 ],
-                "usfm_id": "Revelation of John",
+                "usfm_id": "REV",
                 "abbreviation": "Rev",
                 "chapters": [
                     {

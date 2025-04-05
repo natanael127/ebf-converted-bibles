@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "Vulgate_HebPs",
+        "name": "Latin Vulgate Psalms from Hebrew",
+        "language": "la",
         "books": [
             {
                 "names": [
                     "Psalms"
                 ],
-                "usfm_id": "Psalms",
+                "usfm_id": "PSA",
                 "abbreviation": "Ps",
                 "chapters": [
                     {

@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "Tyndale",
+        "name": "William Tyndale Bible (1525/1530)",
+        "language": "en",
         "books": [
             {
                 "names": [
                     "Genesis"
                 ],
-                "usfm_id": "Genesis",
+                "usfm_id": "GEN",
                 "abbreviation": "Gen",
                 "chapters": [
                     {
@@ -4814,7 +4815,7 @@
                 "names": [
                     "Matthew"
                 ],
-                "usfm_id": "Matthew",
+                "usfm_id": "MAT",
                 "abbreviation": "Matt",
                 "chapters": [
                     {
@@ -8148,7 +8149,7 @@
                 "names": [
                     "Mark"
                 ],
-                "usfm_id": "Mark",
+                "usfm_id": "MRK",
                 "abbreviation": "Mark",
                 "chapters": [
                     {
@@ -10255,7 +10256,7 @@
                 "names": [
                     "Luke"
                 ],
-                "usfm_id": "Luke",
+                "usfm_id": "LUK",
                 "abbreviation": "Luke",
                 "chapters": [
                     {
@@ -13813,7 +13814,7 @@
                 "names": [
                     "John"
                 ],
-                "usfm_id": "John",
+                "usfm_id": "JHN",
                 "abbreviation": "John",
                 "chapters": [
                     {
@@ -16543,7 +16544,7 @@
                 "names": [
                     "Acts"
                 ],
-                "usfm_id": "Acts",
+                "usfm_id": "ACT",
                 "abbreviation": "Acts",
                 "chapters": [
                     {
@@ -19685,7 +19686,7 @@
                 "names": [
                     "Romans"
                 ],
-                "usfm_id": "Romans",
+                "usfm_id": "ROM",
                 "abbreviation": "Rom",
                 "chapters": [
                     {
@@ -21057,7 +21058,7 @@
                 "names": [
                     "I Corinthians"
                 ],
-                "usfm_id": "I Corinthians",
+                "usfm_id": "1CO",
                 "abbreviation": "1Cor",
                 "chapters": [
                     {
@@ -22441,7 +22442,7 @@
                 "names": [
                     "Hebrews"
                 ],
-                "usfm_id": "Hebrews",
+                "usfm_id": "HEB",
                 "abbreviation": "Heb",
                 "chapters": [
                     {
@@ -23411,7 +23412,7 @@
                 "names": [
                     "Revelation of John"
                 ],
-                "usfm_id": "Revelation of John",
+                "usfm_id": "REV",
                 "abbreviation": "Rev",
                 "chapters": [
                     {

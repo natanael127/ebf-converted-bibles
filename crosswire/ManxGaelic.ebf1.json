@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "ManxGaelic",
+        "name": "Manx Gaelic Scripture Portions",
+        "language": "gv",
         "books": [
             {
                 "names": [
                     "Esther"
                 ],
-                "usfm_id": "Esther",
+                "usfm_id": "EST",
                 "abbreviation": "Esth",
                 "chapters": [
                     {
@@ -556,7 +557,7 @@
                 "names": [
                     "Jonah"
                 ],
-                "usfm_id": "Jonah",
+                "usfm_id": "JON",
                 "abbreviation": "Jonah",
                 "chapters": [
                     {
@@ -725,7 +726,7 @@
                 "names": [
                     "Matthew"
                 ],
-                "usfm_id": "Matthew",
+                "usfm_id": "MAT",
                 "abbreviation": "Matt",
                 "chapters": [
                     {
@@ -4059,7 +4060,7 @@
                 "names": [
                     "Luke"
                 ],
-                "usfm_id": "Luke",
+                "usfm_id": "LUK",
                 "abbreviation": "Luke",
                 "chapters": [
                     {
@@ -7617,7 +7618,7 @@
                 "names": [
                     "John"
                 ],
-                "usfm_id": "John",
+                "usfm_id": "JHN",
                 "abbreviation": "John",
                 "chapters": [
                     {

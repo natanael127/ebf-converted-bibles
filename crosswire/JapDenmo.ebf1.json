@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "JapDenmo",
+        "name": "Japanese Denmo \u96fb\u7db2\u8056\u66f8",
+        "language": "ja",
         "books": [
             {
                 "names": [
                     "Matthew"
                 ],
-                "usfm_id": "Matthew",
+                "usfm_id": "MAT",
                 "abbreviation": "Matt",
                 "chapters": [
                     {
@@ -3340,7 +3341,7 @@
                 "names": [
                     "Mark"
                 ],
-                "usfm_id": "Mark",
+                "usfm_id": "MRK",
                 "abbreviation": "Mark",
                 "chapters": [
                     {
@@ -5447,7 +5448,7 @@
                 "names": [
                     "Luke"
                 ],
-                "usfm_id": "Luke",
+                "usfm_id": "LUK",
                 "abbreviation": "Luke",
                 "chapters": [
                     {
@@ -9005,7 +9006,7 @@
                 "names": [
                     "John"
                 ],
-                "usfm_id": "John",
+                "usfm_id": "JHN",
                 "abbreviation": "John",
                 "chapters": [
                     {
@@ -11735,7 +11736,7 @@
                 "names": [
                     "Acts"
                 ],
-                "usfm_id": "Acts",
+                "usfm_id": "ACT",
                 "abbreviation": "Acts",
                 "chapters": [
                     {
@@ -14877,7 +14878,7 @@
                 "names": [
                     "Hebrews"
                 ],
-                "usfm_id": "Hebrews",
+                "usfm_id": "HEB",
                 "abbreviation": "Heb",
                 "chapters": [
                     {
@@ -15847,7 +15848,7 @@
                 "names": [
                     "James"
                 ],
-                "usfm_id": "James",
+                "usfm_id": "JAS",
                 "abbreviation": "Jas",
                 "chapters": [
                     {
@@ -16200,7 +16201,7 @@
                 "names": [
                     "I Peter"
                 ],
-                "usfm_id": "I Peter",
+                "usfm_id": "1PE",
                 "abbreviation": "1Pet",
                 "chapters": [
                     {
@@ -16544,7 +16545,7 @@
                 "names": [
                     "II Peter"
                 ],
-                "usfm_id": "II Peter",
+                "usfm_id": "2PE",
                 "abbreviation": "2Pet",
                 "chapters": [
                     {
@@ -16748,7 +16749,7 @@
                 "names": [
                     "I John"
                 ],
-                "usfm_id": "I John",
+                "usfm_id": "1JN",
                 "abbreviation": "1John",
                 "chapters": [
                     {
@@ -17092,7 +17093,7 @@
                 "names": [
                     "II John"
                 ],
-                "usfm_id": "II John",
+                "usfm_id": "2JN",
                 "abbreviation": "2John",
                 "chapters": [
                     {
@@ -17144,7 +17145,7 @@
                 "names": [
                     "III John"
                 ],
-                "usfm_id": "III John",
+                "usfm_id": "3JN",
                 "abbreviation": "3John",
                 "chapters": [
                     {
@@ -17199,7 +17200,7 @@
                 "names": [
                     "Jude"
                 ],
-                "usfm_id": "Jude",
+                "usfm_id": "JUD",
                 "abbreviation": "Jude",
                 "chapters": [
                     {

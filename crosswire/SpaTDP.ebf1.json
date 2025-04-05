@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "SpaTDP",
+        "name": "Spanish Traducci\u00f3n de dominio p\u00fablico (Mateo a Romanos)",
+        "language": "es",
         "books": [
             {
                 "names": [
                     "Matthew"
                 ],
-                "usfm_id": "Matthew",
+                "usfm_id": "MAT",
                 "abbreviation": "Matt",
                 "chapters": [
                     {
@@ -3340,7 +3341,7 @@
                 "names": [
                     "Mark"
                 ],
-                "usfm_id": "Mark",
+                "usfm_id": "MRK",
                 "abbreviation": "Mark",
                 "chapters": [
                     {
@@ -5447,7 +5448,7 @@
                 "names": [
                     "Luke"
                 ],
-                "usfm_id": "Luke",
+                "usfm_id": "LUK",
                 "abbreviation": "Luke",
                 "chapters": [
                     {
@@ -9005,7 +9006,7 @@
                 "names": [
                     "John"
                 ],
-                "usfm_id": "John",
+                "usfm_id": "JHN",
                 "abbreviation": "John",
                 "chapters": [
                     {
@@ -11735,7 +11736,7 @@
                 "names": [
                     "Acts"
                 ],
-                "usfm_id": "Acts",
+                "usfm_id": "ACT",
                 "abbreviation": "Acts",
                 "chapters": [
                     {
@@ -14877,7 +14878,7 @@
                 "names": [
                     "Romans"
                 ],
-                "usfm_id": "Romans",
+                "usfm_id": "ROM",
                 "abbreviation": "Rom",
                 "chapters": [
                     {

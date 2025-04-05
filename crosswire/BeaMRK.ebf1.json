@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "BeaMRK",
+        "name": "The Gospel of Mark in Beaver (Danezaa)",
+        "language": "bea",
         "books": [
             {
                 "names": [
                     "Mark"
                 ],
-                "usfm_id": "Mark",
+                "usfm_id": "MRK",
                 "abbreviation": "Mark",
                 "chapters": [
                     {

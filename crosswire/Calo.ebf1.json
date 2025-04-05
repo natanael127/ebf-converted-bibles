@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "Calo",
+        "name": "El Evangelio segun S. Lucas, traducido al Roman\u00ed, \u00f3 dialecto de los Gitanos de Espa\u00f1a",
+        "language": "rmq",
         "books": [
             {
                 "names": [
                     "Luke"
                 ],
-                "usfm_id": "Luke",
+                "usfm_id": "LUK",
                 "abbreviation": "Luke",
                 "chapters": [
                     {

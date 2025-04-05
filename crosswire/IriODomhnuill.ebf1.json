@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "IriODomhnuill",
+        "name": "A modern Irish New Testament (Luke preview)",
+        "language": "ga",
         "books": [
             {
                 "names": [
                     "Luke"
                 ],
-                "usfm_id": "Luke",
+                "usfm_id": "LUK",
                 "abbreviation": "Luke",
                 "chapters": [
                     {

@@ -1,12 +1,13 @@
 {
     "bible": {
-        "name": "SPVar",
+        "name": "Samaritan Pentateuch with variant readings",
+        "language": "hbo",
         "books": [
             {
                 "names": [
                     "Genesis"
                 ],
-                "usfm_id": "Genesis",
+                "usfm_id": "GEN",
                 "abbreviation": "Gen",
                 "chapters": [
                     {
@@ -4814,7 +4815,7 @@
                 "names": [
                     "Exodus"
                 ],
-                "usfm_id": "Exodus",
+                "usfm_id": "EXO",
                 "abbreviation": "Exod",
                 "chapters": [
                     {
@@ -8622,7 +8623,7 @@
                 "names": [
                     "Leviticus"
                 ],
-                "usfm_id": "Leviticus",
+                "usfm_id": "LEV",
                 "abbreviation": "Lev",
                 "chapters": [
                     {
@@ -11316,7 +11317,7 @@
                 "names": [
                     "Numbers"
                 ],
-                "usfm_id": "Numbers",
+                "usfm_id": "NUM",
                 "abbreviation": "Num",
                 "chapters": [
                     {
@@ -15336,7 +15337,7 @@
                 "names": [
                     "Deuteronomy"
                 ],
-                "usfm_id": "Deuteronomy",
+                "usfm_id": "DEU",
                 "abbreviation": "Deut",
                 "chapters": [
                     {
