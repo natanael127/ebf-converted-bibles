@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import time
 import shutil
 import easy_bible_format.converters.sword_to_ebf
+import argparse
 
 LOG_FILE = "sword_conversion.log"
 
@@ -157,7 +158,16 @@ def scan_and_convert_web(url, output_dir, skip_existing=True):
     print(f"  - Already exists: {already_exists} files")
 
 def main():
-    scan_and_convert_web("https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/", "crosswire")
+    parser = argparse.ArgumentParser(description='Convert SWORD Bible modules to JSON format.')
+    parser.add_argument('--force', action='store_true', 
+                        help='Force processing even if output file already exists')
+    parser.add_argument('--url', default="https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/",
+                        help='URL to scan for SWORD modules')
+    parser.add_argument('--output', default="crosswire",
+                        help='Output directory for converted files')
+    args = parser.parse_args()
+    
+    scan_and_convert_web(args.url, args.output, skip_existing=not args.force)
 
 if __name__ == "__main__":
     main()
