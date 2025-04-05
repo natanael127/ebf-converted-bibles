@@ -162,9 +162,9 @@ def main():
     parser.add_argument('--force', action='store_true', 
                         help='Force processing even if output file already exists')
     parser.add_argument('--url', default="https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/",
-                        help='URL to scan for SWORD modules')
+                        help='URL to scan for SWORD modules (default: %(default)s)')
     parser.add_argument('--output', default="crosswire",
-                        help='Output directory for converted files')
+                        help='Output directory for converted files (default: %(default)s)')
     args = parser.parse_args()
     
     scan_and_convert_web(args.url, args.output, skip_existing=not args.force)
