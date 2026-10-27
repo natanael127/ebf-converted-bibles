@@ -1,7 +1,7 @@
 {
     "bible": {
         "name": "Hebrew New Testament with Niqqud, based on Delitzsch's translation",
-        "language": "he",
+        "language": "heb",
         "books": [
             {
                 "names": [

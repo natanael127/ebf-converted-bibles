@@ -1,7 +1,7 @@
 {
     "bible": {
         "name": "Latin Vulgate",
-        "language": "la",
+        "language": "lat",
         "books": [
             {
                 "names": [

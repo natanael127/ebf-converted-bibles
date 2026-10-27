@@ -1,7 +1,7 @@
 {
     "bible": {
         "name": "Modern Hebrew Bible",
-        "language": "he",
+        "language": "heb",
         "books": [
             {
                 "names": [
